@@ -5,7 +5,12 @@
 
 # Introduction
 
-...
+The long time of isolation from other Greek-speaking areas led to substantial differences between Cypriot and Standard Modern Greek (SMG), occasionally rendering the two mutually unintelligible due to a host of phonological, morphological, lexical and syntactic differences. 
+On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Greek functions in formal contexts and is the instructional language in public primary and secondary education. So far, Cypriot-Greek has no standardized writing system. Crucially, the SMG alphabet does not represent the distinctive sounds of the dialect; the treebank adopts the alphabet and the orthography proposed in Armostis et al.  (2014). 
+The Cypriot-Greek treebank contains 500 sentences. Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) (XX%), text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) (YY%) and ****texts contributed by Spyros Armostis******(ZZ%).   All data have undergone first automatic editing with *****Spyros’ tool****** and then manual editing. 
+Active annotation was used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results have been edited manually by the group of annotators. 
+The data were split into  training (70%),  dev (10%) and  test (20%) sets.
+
 
 
 # Acknowledgments
