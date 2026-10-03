@@ -13,10 +13,10 @@ On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Gr
 
 # About the treebank 
 
-The Cypriot-Greek treebank contains 100 sentences: length in words ***average length +/- yy***, number of tokens: ***Y***.
+The current version of the Cypriot-Greek treebank contains 100 sentences: length in words ***average length +/- yy***, number of tokens: ***Y***. The final version of the treebank will contain ****600**** sentences.
 
 
-Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) ***(XX%)***, text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) ***(YY%)*** and ****texts contributed by Spyros Armostis******  ***(ZZ%)****.   Data have undergone  automatic editing with *****Spyros’ tool****** and then manual editing.
+Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) ***(XX%)***, text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) ***(YY%)*** and ****texts contributed by Spyros Armostis******  ***(ZZ%)****.   Data have undergone  automatic editing with *****Spyros’ tool****** and then manual editing (the percentages refer to the final treebank, not the present version). 
 
 Active annotation was used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results have been edited manually by the group of annotators. 
 
