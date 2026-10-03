@@ -1,6 +1,6 @@
 # Summary
 
-This is the first Cypriot-Greek treebank. Cypriot Greek is a living dialect that belongs to the South-Eastern Greek dialect group. There are more than 700,000 speakers of Cypriot Greek on Cyprus and Cypriot communities in the UK, USA, Australia, Canada and South Africa.
+This is the first Cypriot-Greek treebank. Cypriot Greek is a living dialect that belongs to the South-Eastern Greek dialect group and is spoken by more than 700,000 speakers of Cypriot Greek on Cyprus and Cypriot communities in the UK, USA, Australia, Canada and South Africa.
 
 The treebank contains material from transcribed authentic speech, web scraped texts and *****theatrical plays*******. 
 
