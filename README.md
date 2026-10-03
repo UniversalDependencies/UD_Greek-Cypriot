@@ -1,18 +1,19 @@
 # Summary
 
-This is the first Cypriot-Greek treebank. Cypriot Greek is a living dialect that belongs to the South-Eastern Greek dialect group. There are more than 700,000 speakers of CG in Cyprus and Cypriot communities in the UK, USA, Australia, Canada and South Africa.
+This is the first Cypriot-Greek treebank. Cypriot Greek is a living dialect that belongs to the South-Eastern Greek dialect group. There are more than 700,000 speakers of Cypriot Greek on Cyprus and Cypriot communities in the UK, USA, Australia, Canada and South Africa.
+
 The treebank contains material from transcribed authentic speech, web scraped texts and *****theatrical plays*******. 
 
 
 # About Cypriot-Greek
 
-The long time of isolation from other Greek-speaking areas led to substantial differences between Cypriot-Greek and Standard Modern Greek (SMG), occasionally rendering the two mutually unintelligible due to a host of phonological, morphological, lexical and syntactic differences. 
+The long time of isolation from other Greek-speaking areas led to substantial differences between Cypriot-Greek and Standard Modern Greek, occasionally rendering the two mutually unintelligible due to a host of phonological, morphological, lexical and syntactic differences. 
 
-On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Greek functions in formal contexts and is the instructional language in public primary and secondary education. So far, Cypriot-Greek has no standardized writing system. Crucially, the SMG alphabet does not represent the distinctive sounds of the dialect; the treebank adopts the alphabet and the orthography proposed in Armostis et al.  (2014). 
+On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Greek functions in formal contexts and is the instructional language in public primary and secondary education. So far, Cypriot-Greek has no standardized writing system. Crucially, the  alphabet of Standard Modern Greek does not represent the distinctive sounds of Cypriot-Greek; the treebank adopts the alphabet and the orthography of Cypriot-Greek proposed in Armostis et al. (2014). 
 
 # About the treebank 
 
-The Cypriot-Greek treebank contains ***500*** sentences: length ***average length +/- yy***, number of tokens: ***Y***.
+The Cypriot-Greek treebank contains ***500*** sentences: length in words ***average length +/- yy***, number of tokens: ***Y***.
 
 
 Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) ***(XX%)***, text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) ***(YY%)*** and ****texts contributed by Spyros Armostis******  ***(ZZ%)****.   Data have undergone  automatic editing with *****Spyros’ tool****** and then manual editing.
