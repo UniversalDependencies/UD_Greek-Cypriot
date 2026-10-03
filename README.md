@@ -18,9 +18,9 @@ The current version of the Cypriot-Greek treebank contains 100 sentences: length
 
 Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) ***(XX%)***, text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) ***(YY%)*** and ****texts contributed by Spyros Armostis******  ***(ZZ%)****.   Data have undergone  automatic editing with *****Spyros’ tool****** and then manual editing (the percentages refer to the final treebank, not the present version). 
 
-<!--- Active annotation was used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results have been edited manually by the group of annotators. --->
+<!--- Active annotation was used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results have been edited manually by the group of annotators. 
 
-The data were split into  training (70%),  dev (10%) and  test (20%) sets.
+The data were split into  training (70%),  dev (10%) and  test (20%) sets.--->
 
 
 
