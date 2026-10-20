@@ -55,7 +55,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Markantonatou, Stella; Armostis, Spyros; Bompolas, Stavros; Stamou, Vivian; Apostolidou, Maria; Chalkia, Eirini; Raftis, Konstantinos; Petropoulou, Christina-Athanasia; Piskopos, Dionisis
+Contributors: Markantonatou, Stella; Armostis, Spyros; Bompolas, Stavros; Dimakis, Antonis; Apostolidou, Maria; Chalkia, Eirini; Raftis, Konstantinos; Petropoulou, Christina-Athanasia; Piskopos, Dionisis
 Contributing: here
 Contact: stiliani.markantonatou@gmail.com
 ===============================================================================
