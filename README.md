@@ -2,7 +2,7 @@
 
 This is the first Cypriot-Greek treebank. Cypriot Greek is a living dialect of the South-Eastern Greek dialect group and is spoken by more than 700,000 people on Cyprus and Cypriot communities in the UK, USA, Australia, Canada and South Africa.
 
-The treebank contains material from transcribed authentic speech,  texts scrapedand from the Web *****theatrical plays*******. 
+The treebank contains material from transcribed authentic speech,  texts scraped from the Web and scripts from CyBC series. 
 
 
 # About Cypriot-Greek
@@ -13,14 +13,24 @@ On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Gr
 
 # About the treebank 
 
-The current version of the Cypriot-Greek treebank contains the 100 sentences of the test set: length in words ***average length +/- yy***, number of tokens: ***Y***. The final version of the treebank will contain 500 sentences. <!--- it will be informed with the final figures for length and tokens --->
+The current version of the Cypriot-Greek treebank contains the 100 sentences of the test set:  average length in words 17,8 (range: 7-30), number of tokens: 1782. The development of the treebank is going work and we expect that new, enriched versions will be uploaded in due time.
 
 
-Texts were drawn from authentic spontaneous Cypriot-Greek oral data: [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m) ***(XX%)***, text data scraped from the Web: [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772) ***(YY%)*** and ****texts contributed by Spyros Armostis******  ***(ZZ%)*** (the percentages refer to the final treebank, not the 100 examples version).   To homogenise the data by making them adapt to the orthography proposed by Armostis et al. (2014), the following pipeline has been applied: first automatic editing with ****Spyros’ tool**** and then manual editing.
+The final version of the treebank will contain 500 sentences, as follows:
+
+- 54% (270) transcribed oral data from authentic spontaneous speech [Mozilla Data Collective/Common Voice Spontaneous Speech 5.0 - Cypriot Greek]( https://mozilladatacollective.com/datasets/cmu5n1iaw00tjmi07dcx96c1m)
+
+- 22,8% (114) from scripts of the Cyprus Broadcasting Corporation-CyBC
+ 
+- 20% (100) from texts scrapped from the WEB [GRDD+ dialectal dataset]( https://arxiv.org/pdf/2511.03772)
+
+- 3,2% (16) from texts collected by Spyros Armostis
+
+To homogenise the data by making them adapt to the orthography proposed by Armostis et al. (2014), the following pipeline has been applied: first automatic editing with an orthographic normaliser tool provided by Spyros Armostis and then manual editing.
 
 Active annotation is  used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results are edited manually by the annotators group. The 100 sentences of the test set have been annotated with a  model trained on GUD and then edited manually by S. Markantonatou and S. Bompolas ******(inter annotator agreement before adjudication XXXX, and after adjudication 1)*****. 
 
-The data will be split into  training (70%),  dev (10%) and  test (20%) sets.
+The final version of the data will be split into  training (70%),  dev (10%) and  test (20%) sets.
 
 
 
