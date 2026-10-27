@@ -36,7 +36,7 @@ The final version of the data will be split into  training (70%),  dev (10%) and
 
 # Acknowledgments
 
-For the development of the treebank worked: Stavros Bompolas and Stella Markantonatou,  [Institute for Language and Speech Processing (ILSP)/Athena Research Centre](http://www.ilsp.gr/), Spyros Armostis [Department of English Studies/University of Cyprus](https://www.ucy.ac.cy/eng/?lang=en), Antonis Dimakis, PhD student [NKUA](https://en.uoa.gr/)  and [Archimedes Unit/Athena Research Center](https://archimedesai.gr/en/),  and Maria Apostolidou, Eirini Chalkia, Christina Petropoulou, Dionysis Piskopos and,  Konstantinos Raftis, MSc students/[Language Technology](https://www.di.uoa.gr/en/lt). 
+For the development of the treebank worked: Stavros Bompolas and Stella Markantonatou,  [Institute for Language and Speech Processing (ILSP)/Athena Research Centre](http://www.ilsp.gr/) and [Archimedes Unit/Athena Research Center](https://archimedesai.gr/en/), Spyros Armostis [Department of English Studies/University of Cyprus](https://www.ucy.ac.cy/eng/?lang=en), Antonis Dimakis, PhD student [NKUA](https://en.uoa.gr/)  and [Archimedes Unit/Athena Research Center](https://archimedesai.gr/en/),  and Maria Apostolidou, Eirini Chalkia, Christina Petropoulou, Dionysis Piskopos and,  Konstantinos Raftis, MSc students/[Language Technology](https://www.di.uoa.gr/en/lt). 
 
 # Bibliography 
 
