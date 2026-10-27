@@ -13,7 +13,7 @@ On Cyprus, Cypriot-Greek is used in oral communication, while Standard Modern Gr
 
 # About the treebank 
 
-The current version of the Cypriot-Greek treebank contains the 100 sentences of the test set:  average length in words 17,8 (range: 7-30), number of tokens: 1782. The development of the treebank is going work and we expect that new, enriched versions will be uploaded in due time.
+The current version of the Cypriot-Greek treebank contains the 100 sentences of the test set:  average length in words 17,8 (range: 7-30), number of tokens: 1782. The development of the treebank is ongoing work and we expect that new, enriched versions will be uploaded in due time.
 
 
 The final version of the treebank will contain 500 sentences, as follows:
