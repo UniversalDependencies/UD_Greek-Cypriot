@@ -28,7 +28,8 @@ The final version of the treebank will contain 500 sentences, as follows:
 
 To homogenise the data by making them adapt to the orthography proposed by Armostis et al. (2014), the following pipeline has been applied: first automatic editing with an orthographic normaliser tool provided by Spyros Armostis and then manual editing.
 
-Active annotation is  used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results are edited manually by the annotators group. The 100 sentences of the test set have been annotated with a  model trained on GUD and then edited manually by S. Markantonatou and S. Bompolas ******(inter annotator agreement before adjudication XXXX, and after adjudication 1)*****. 
+Active annotation is  used for knowledge transfer from GUD, a UD treebank of Standard Modern Greek, and the results are edited manually by the annotators group. 
+The 100 sentences comprising the test set were initially annotated automatically using a model trained on the GUD treebank. The resulting annotations were subsequently manually reviewed and corrected by S. Markantonatou and S. Bompolas. The median inter-annotator agreement before adjudication, measured using Fleiss' kappa (κ), was 0.93, reaching 1.00 after adjudication.
 
 The final version of the data will be split into  training (70%),  dev (10%) and  test (20%) sets.
 
