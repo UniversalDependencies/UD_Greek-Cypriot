@@ -55,11 +55,11 @@ Spyros Armostis, Kyriaki Christodoulou, Marianna Katsoyannou, and Charalambos Th
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.18
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: TO-BE-SPECIFIED
+Genre: fiction blog spoken web
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
