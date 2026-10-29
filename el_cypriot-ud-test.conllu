@@ -1,0 +1,2382 @@
+# sent_id = C__1
+# text = Σίουρα εννά ’θελα να ξαναζήσω την παιδική μου ηλικίαν που εν είσ̆ες τόσα προβλήματα τζ̆αι τόσες έννοιες ε το μόνον σου μέλημαν ήταν το παιχνίδιν τζ̆αι το θκιέβασμαν .
+1	Σίουρα	σίουρα	ADV	_	_	3	advmod	_	_
+2	εννά	εννά	AUX	_	Tense=Fut	3	aux	_	_
+3	’θελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	να	να	SCONJ	_	_	5	mark	_	_
+5	ξαναζήσω	ξαναζώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+6	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+7	παιδική	παιδικός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+8	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	_
+9	ηλικίαν	ηλικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+10	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	12	obl	_	_
+11	εν	εν	PART	_	Polarity=Neg	12	advmod	_	_
+12	είσ̆ες	έχω	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+13	τόσα	τόσος	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	14	det	_	_
+14	προβλήματα	πρόβλημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
+15	τζ̆αι	τζ̆αι	CCONJ	_	_	17	cc	_	_
+16	τόσες	τόσος	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	_
+17	έννοιες	έννοια	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	conj	_	_
+18	ε	ε	INTJ	_	_	25	discourse	_	_
+19	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
+20	μόνον	μόνος	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	22	det	_	_
+21	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	22	nmod	_	_
+22	μέλημαν	μέλημαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	_
+23	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	cop	_	_
+24	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	25	det	_	_
+25	παιχνίδιν	παιχνίδιν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	parataxis	_	_
+26	τζ̆αι	τζ̆αι	CCONJ	_	_	28	cc	_	_
+27	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	28	det	_	_
+28	θκιέβασμαν	θκιέβασμαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	25	conj	_	_
+29	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__2
+# text = Εν έσ̆ει κάτι συγκεκριμμένον το οποίον πιστεύκω ότι λειφκούμαστεν .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	κάτι	κάτι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	_
+4	συγκεκριμμένον	συγκεκριμμένος	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
+5	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	οποίον	οποίος	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	dislocated	_	_
+7	πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+8	ότι	ότι	SCONJ	_	_	9	mark	_	_
+9	λειφκούμαστεν	λείφκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	7	ccomp	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__3
+# text = Γεννικά πιστεύκω οι Κυπραίοι σαν λαός εν διούν την ευκαιρίαν σε κάτι τζ̆αινούρκον .
+1	Γεννικά	γεννικά	ADV	_	_	2	advmod	_	_
+2	πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	Κυπραίοι	Κυπραίος	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+5	σαν	σαν	ADV	_	_	6	case	_	_
+6	λαός	λαός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+7	εν	εν	PART	_	Polarity=Neg	8	advmod	_	_
+8	διούν	διώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+9	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ευκαιρίαν	ευκαιρία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+11	σε	σε	ADP	_	_	12	case	_	_
+12	κάτι	κάτι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	obl	_	_
+13	τζ̆αινούρκον	τζ̆αινούρκος	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__4
+# text = Για ’μέναν η πιο λυπητερή ιστορία που θθυμούμαι που την παιδικήν μου ηλικίαν ήταν η μέρα που επέθανεν ο σ̆σ̆ύλλος που είχα που ήμουν μιτσ̆ιά .
+1	Για	για	ADP	_	_	2	case	_	_
+2	’μέναν	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
+3	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+4	πιο	πιο	ADV	_	Degree=Cmp	5	advmod	_	_
+5	λυπητερή	λυπητερός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
+6	ιστορία	ιστορία	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+7	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	_
+8	θθυμούμαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl:relcl	_	_
+9	που	που	ADP	_	_	13	case	_	_
+10	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+11	παιδικήν	παιδικός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
+12	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod	_	_
+13	ηλικίαν	ηλικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+14	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+15	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	μέρα	μέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+17	που	που	SCONJ	_	_	18	mark	_	_
+18	επέθανεν	πεθανίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+19	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	σ̆σ̆ύλλος	σ̆σ̆ύλλος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+21	που	που	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	_
+22	είχα	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+23	που	που	SCONJ	_	_	25	mark	_	_
+24	ήμουν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	25	cop	_	_
+25	μιτσ̆ιά	μιτσής	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	22	advcl	_	_
+26	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = C__5
+# text = Εν θα ξιάσω ποττέ το ταξίδιν που είχα κάμει στην Ιταλίαν , πιο συγκεκριμμένα στο Μιλάνον .
+1	Εν	εν	PART	_	Polarity=Neg	3	advmod	_	_
+2	θα	θα	AUX	_	Tense=Fut	3	aux	_	_
+3	ξιάσω	ξιάννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ποττέ	ποττέ	ADV	_	PronType=Neg	3	advmod	_	_
+5	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	ταξίδιν	ταξίδιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+7	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	_
+8	είχα	έχω	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	κάμει	κάμνω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	acl:relcl	_	_
+10-11	στην	_	_	_	_	_	_	_	_
+10	σ	σε	ADP	_	_	12	case	_	_
+11	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Ιταλίαν	Ιταλία	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	πιο	πιο	ADV	_	Degree=Cmp	15	advmod	_	_
+15	συγκεκριμμένα	συγκεκριμμένα	ADV	_	_	18	advmod	_	_
+16-17	στο	_	_	_	_	_	_	_	_
+16	σ	σε	ADP	_	_	18	case	_	_
+17	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
+18	Μιλάνον	Μιλάνον	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	12	conj	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__6
+# text = Η πιο αγχωτική δουλειά που έχω να κάμω εν’ το μισθολόγιον στην δουλειάν μου .
+1	Η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+2	πιο	πιο	ADV	_	Degree=Cmp	3	advmod	_	_
+3	αγχωτική	αγχωτικός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	δουλειά	δουλειά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	obj	_	_
+6	έχω	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+7	να	να	SCONJ	_	_	8	mark	_	_
+8	κάμω	κάμνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+9	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	μισθολόγιον	μισθολόγιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+12-13	στην	_	_	_	_	_	_	_	_
+12	σ	σε	ADP	_	_	14	case	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	δουλειάν	δουλειά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod	_	_
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = C__7
+# text = Εν ι-ξέρω ταινίες κυπριακού κινηματογράφου ή εν θθυμούμαι καμιάν για να έχω τζ̆αι αγαπημένην αλλά θα έθελα πάρα πολλά να ανακαλύψω τι ταινίες έσ̆ει ο κυπριακός κινηματογράφος .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	ι-ξέρω	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	MGloss=euphonic-know|MSeg=ι-ξέρω
+3	ταινίες	ταινία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+4	κυπριακού	κυπριακός	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+5	κινηματογράφου	κινηματογράφος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	ή	ή	CCONJ	_	_	8	cc	_	_
+7	εν	εν	PART	_	Polarity=Neg	8	advmod	_	_
+8	θθυμούμαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	_
+9	καμιάν	κανένας	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	8	obj	_	_
+10	για	για	ADP	_	ExtPos=SCONJ	12	mark	_	_
+11	να	να	SCONJ	_	_	10	fixed	_	_
+12	έχω	έχω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	advcl	_	_
+13	τζ̆αι	τζ̆αι	CCONJ	_	_	14	cc	_	_
+14	αγαπημένην	αγαπημένος	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	obj	_	_
+15	αλλά	αλλά	CCONJ	_	_	17	cc	_	_
+16	θα	θα	AUX	_	Tense=Fut	17	aux	_	_
+17	έθελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+18	πάρα	πάρα	ADV	_	_	19	advmod	_	_
+19	πολλά	πολλά	ADV	_	PronType=Ind	17	advmod	_	_
+20	να	να	SCONJ	_	_	21	mark	_	_
+21	ανακαλύψω	ανακαλύπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	17	ccomp	_	_
+22	τι	τι	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	23	det	_	_
+23	ταινίες	ταινία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	24	obj	_	_
+24	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	_
+25	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	κυπριακός	κυπριακός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	27	amod	_	_
+27	κινηματογράφος	κινηματογράφος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__8
+# text = Έσ̆ει αρκετά άρθρα τζ̆αι έρευνες για τους εξωγήινους αλλά προσωπικά που την στιγμήν που εν έσ̆ει κάποιαν απόδειξην ότι όντως υπάρχουν έννεν’ κάτι που εννά επίστευκα .
+1	Έσ̆ει	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	αρκετά	αρκετά	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	3	det	_	_
+3	άρθρα	άρθρα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+4	τζ̆αι	τζ̆αι	CCONJ	_	_	5	cc	_	_
+5	έρευνες	έρευνα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	_
+6	για	για	ADP	_	_	8	case	_	_
+7	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	εξωγήινους	εξωγήινος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	nmod	_	_
+9	αλλά	αλλά	CCONJ	_	_	24	cc	_	_
+10	προσωπικά	προσωπικά	ADV	_	_	24	advmod	_	_
+11	που	που	ADP	_	ExtPos=SCONJ	16	mark	_	_
+12	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	fixed	_	_
+13	στιγμήν	στιγμή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	fixed	_	_
+14	που	που	SCONJ	_	_	11	fixed	_	_
+15	εν	εν	PART	_	Polarity=Neg	16	advmod	_	_
+16	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	24	advcl	_	_
+17	κάποιαν	κάποιος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
+18	απόδειξην	απόδειξη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+19	ότι	ότι	SCONJ	_	_	21	mark	_	_
+20	όντως	όντως	ADV	_	_	21	advmod	_	_
+21	υπάρχουν	υπάρχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	_
+22-23	έννεν’	_	_	_	_	_	_	_	_
+22	εν	εν	PART	_	Polarity=Neg	24	advmod	_	_
+23	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+24	κάτι	κάτι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	conj	_	_
+25	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	27	obj	_	_
+26	εννά	εννά	AUX	_	Tense=Fut	27	aux	_	_
+27	επίστευκα	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+28	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__9
+# text = Εν ασχολούμαι πάρα πολλά μαζίν με αθλήματα αλλά το κύριον είδος άσκησης που κάμνω τζ̆αι αρέσκει μου εν’ το περπάτημαν συνήθως τες νυχτερινές ώρες .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	ασχολούμαι	ασχολούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	πάρα	πάρα	ADV	_	_	4	advmod	_	_
+4	πολλά	πολλά	ADV	_	PronType=Ind	2	advmod	_	_
+5	μαζίν	μαζίν	ADV	_	_	2	advmod	_	_
+6	με	με	ADP	_	_	7	case	_	_
+7	αθλήματα	άθλημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	_
+8	αλλά	αλλά	CCONJ	_	_	20	cc	_	_
+9	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+10	κύριον	κύριος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	11	amod	_	_
+11	είδος	είδος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+12	άσκησης	άσκηση	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	14	obj	_	_
+14	κάμνω	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+15	τζ̆αι	τζ̆αι	CCONJ	_	_	16	cc	_	_
+16	αρέσκει	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+17	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+18	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+20	περπάτημαν	περπάτημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
+21	συνήθως	συνήθως	ADV	_	_	24	advmod	_	_
+22	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+23	νυχτερινές	νυχτερινός	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	24	amod	_	_
+24	ώρες	ώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obl	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__10
+# text = Εμάθαν μου να είμαι ταπεινός τζ̆αι να μεν μιλώ πάρα πολλά .
+1	Εμάθαν	μαθθαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	να	να	SCONJ	_	_	5	mark	_	_
+4	είμαι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ταπεινός	ταπεινός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	_
+6	τζ̆αι	τζ̆αι	CCONJ	_	_	9	cc	_	_
+7	να	να	SCONJ	_	_	9	mark	_	_
+8	μεν	μεν	PART	_	Polarity=Neg	9	advmod	_	_
+9	μιλώ	μιλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	πάρα	πάρα	ADV	_	_	11	advmod	_	_
+11	πολλά	πολλά	ADV	_	PronType=Ind	9	advmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__11
+# text = Προσωπικά που την παιδικήν μου ηλικίαν εν αθθυμούμαι κάποιαν εξαιρετικά αστείαν ιστορίαν , οπότε εν έχω κάποιον παράδειγμαν για τούντην ερώτησην .
+1	Προσωπικά	προσωπικά	ADV	_	_	8	advmod	_	_
+2	που	που	ADP	_	_	6	case	_	_
+3	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+4	παιδικήν	παιδικός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+5	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
+6	ηλικίαν	ηλικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+7	εν	εν	PART	_	Polarity=Neg	8	advmod	_	_
+8	αθθυμούμαι	αθθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	κάποιαν	κάποιος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+10	εξαιρετικά	εξαιρετικά	ADV	_	_	11	advmod	_	_
+11	αστείαν	αστείος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+12	ιστορίαν	ιστορία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	οπότε	οπότε	ADV	_	_	16	mark	_	_
+15	εν	εν	PART	_	Polarity=Neg	16	advmod	_	_
+16	έχω	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+17	κάποιον	κάποιος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	18	det	_	_
+18	παράδειγμαν	παράδειγμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+19	για	για	ADP	_	_	22	case	_	_
+20-21	τούντην	_	_	_	_	_	_	_	_
+20	τούτην	τούτος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
+21	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	ερώτησην	ερώτηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = C__12
+# text = Ο Ευκενής τζ̆’ η Μαρκαρού ήταν κοπέλλια νέα , εβρέθουνταν εις το χωρκόν τζ̆’ εκάμνασιν παρέαν .
+1	Ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Ευκενής	Ευκενής	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	τζ̆’	τζαι	CCONJ	_	_	5	cc	_	_
+4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Μαρκαρού	Μαρκαρού	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+6	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	κοπέλλια	κοπέλλιν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+8	νέα	νέος	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	εβρέθουνταν	βρέθουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	conj	_	_
+11	εις	εις	ADP	_	_	13	case	_	_
+12	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	χωρκόν	χωρκόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+14	τζ̆’	τζαι	CCONJ	_	_	15	cc	_	_
+15	εκάμνασιν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+16	παρέαν	παρέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = C__13
+# text = Που ’μασταν μιτσ̆ιοί με τον κολλητόν μου εφωνάζαμεν ο ένας τον άλλον ππεζεβέγκην τζ̆αι χερχελέν .
+1	Που	που	SCONJ	_	_	3	mark	_	_
+2	’μασταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+3	μιτσ̆ιοί	μιτσής	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	_
+4	με	με	ADP	_	_	6	case	_	_
+5	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	κολλητόν	κολλητός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+7	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
+8	εφωνάζαμεν	φωνάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ένας	ένας	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	8	nsubj	_	_
+11	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	άλλον	άλλος	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	10	compound	_	_
+13	ππεζεβέγκην	ππεζεβέγκης	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	xcomp	_	_
+14	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+15	χερχελέν	χερχελές	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = C__14
+# text = Αρέσκει μου πολλά η ζωγραφική , ο παπάς μου εζωγράφιζεν τζ̆αι έμαθα που μωρόν να αγαπώ την τέχνην .
+1	Αρέσκει	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	πολλά	πολλά	ADV	_	PronType=Ind	1	advmod	_	_
+4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ζωγραφική	ζωγραφική	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	παπάς	παπάς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	εζωγράφιζεν	ζωγραφίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+11	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+12	έμαθα	μαθθαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	_
+13	που	που	ADP	_	_	14	case	_	_
+14	μωρόν	μωρόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+15	να	να	SCONJ	_	_	16	mark	_	_
+16	αγαπώ	αγαπώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+17	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	τέχνην	τέχνη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__15
+# text = Είχα τζ̆’ έναν ημερολόγιον τότε τζ̆αι έγραψα πολλές φορές για την απώλειαν μου .
+1	Είχα	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τζ̆’	τζαι	CCONJ	_	_	4	cc	_	_
+3	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	ημερολόγιον	ημερολόγιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+5	τότε	τότε	ADV	_	PronType=Dem	1	advmod	_	_
+6	τζ̆αι	τζ̆αι	CCONJ	_	Polarity=Neg	7	cc	_	_
+7	έγραψα	γράφω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	πολλές	πολλύς	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	φορές	φορά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	obl	_	_
+10	για	για	ADP	_	_	12	case	_	_
+11	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	απώλειαν	απώλεια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+13	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__16
+# text = Πιστεύκω οι παραπάνω ελαλούσασιν τεχνητήν νοημοσύνην , αλλά επειδή ο άνθρωπος έσ̆ει κκόμπλεξ εν πιστεύκω ότι εννά της δώκει την δυνατότηταν να τον ι-ξεπεράσει .
+1	Πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	παραπάνω	παραπάνω	ADV	_	_	4	nsubj	_	_
+4	ελαλούσασιν	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	τεχνητήν	τεχνητός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+6	νοημοσύνην	νοημοσύνη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	αλλά	αλλά	CCONJ	_	_	15	cc	_	_
+9	επειδή	επειδή	SCONJ	_	_	12	mark	_	_
+10	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	άνθρωπος	άνθρωπος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
+13	κκόμπλεξ	κκόμπλεξ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	εν	εν	PART	_	Polarity=Neg	15	advmod	_	_
+15	πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+16	ότι	ότι	SCONJ	_	_	19	mark	_	_
+17	εννά	εννά	AUX	_	Tense=Fut	19	aux	_	_
+18	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+19	δώκει	διώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	_
+20	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	δυνατότηταν	δυνάτοτητα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+22	να	να	SCONJ	_	_	24	mark	_	_
+23	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	ι-ξεπεράσει	ξεπερνώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	21	acl	_	MGloss=euphonic-superpass|MSeg=ι-ξεπεράσει
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__17
+# text = Σπίτιν μας έχουμεν θκυο παπαγάλους , εμ εξωτικούς παπαγάλους , τζ̆αι έναν σ̆σ̆ύλλον , ενώ έξω στην γειτονιάν έχουμεν πάρα πολλές κάττες .
+1	Σπίτιν	σπίτιν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	_
+2	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	_
+3	έχουμεν	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	θκυο	θκυο	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	5	nummod	_	_
+5	παπαγάλους	παπαγάλος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	εμ	εμ	ADP	_	_	9	discourse	_	_
+8	εξωτικούς	εξωτικός	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	_
+9	παπαγάλους	παπαγάλος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	appos	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	τζ̆αι	τζ̆αι	CCONJ	_	_	13	cc	_	_
+12	έναν	ένας	NUM	_	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	13	nummod	_	_
+13	σ̆σ̆ύλλον	σ̆σ̆ύλλος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	ενώ	ενώ	SCONJ	_	_	20	mark	_	_
+16	έξω	έξω	ADV	_	_	20	advmod	_	_
+17-18	στην	_	_	_	_	_	_	_	_
+17	σ	σε	ADP	_	_	19	case	_	_
+18	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	γειτονιάν	γειτονιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+20	έχουμεν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+21	πάρα	πάρα	ADV	_	_	22	advmod	_	_
+22	πολλές	πολύς	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	23	det	_	_
+23	κάττες	κάττα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__18
+# text = Τσουγκρούμεν αφκά τζ̆αι πάμεν τζ̆αι πιάννουμεν το άγιον φως τζ̆αι μετά πάμεν τζ̆αι τρώμεν αφκολέμονην .
+1	Τσουγκρούμεν	τσουγκρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	αφκά	αφκόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+3	τζ̆αι	τζ̆αι	CCONJ	_	_	4	cc	_	_
+4	πάμεν	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	πιάννουμεν	πιάννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+7	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+8	άγιον	άγιος	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+9	φως	φως	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+10	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+11	μετά	μετά	ADV	_	_	12	advmod	_	_
+12	πάμεν	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+13	τζ̆αι	τζ̆αι	CCONJ	_	_	14	cc	_	_
+14	τρώμεν	τρώω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+15	αφκολέμονην	αφκολέμονη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__19
+# text = Οι τροφές που είναι ανθυγιεινές τζ̆αι πρέπει να τες τρώμε με μέτρον είναι το γρήγορον φαγητόν , τα τηγανητά φαγητά , τα γλυκά , οι σ̆οκολάτες , καραμέλλες εε … τούτα .
+1	Οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	τροφές	τροφή	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	nsubj	_	_
+3	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	5	nsubj	_	_
+4	είναι	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ανθυγιεινές	ανθυγιεινός	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	2	acl:relcl	_	_
+6	τζ̆αι	τζ̆αι	CCONJ	_	_	7	cc	_	_
+7	πρέπει	πρέπει	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	να	να	SCONJ	_	_	10	mark	_	_
+9	τες	εγώ	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	τρώμε	τρώω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
+11	με	με	ADP	_	_	12	case	_	_
+12	μέτρον	μέτρον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+13	είναι	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+15	γρήγορον	γρήγορος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	16	amod	_	_
+16	φαγητόν	φαγητόν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	20	det	_	_
+19	τηγανητά	τηγανητός	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	20	amod	_	_
+20	φαγητά	φαγητόν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	conj	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	23	det	_	_
+23	γλυκά	γλυκόν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	conj	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+26	σ̆οκολάτες	σ̆οκολάτα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	conj	_	_
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	καραμέλλες	καραμέλλα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	conj	_	_
+29	εε	εε	INTJ	_	_	31	discourse	_	_
+30	…	…	PUNCT	_	_	31	punct	_	_
+31	τούτα	τούτος	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	16	parataxis	_	_
+32	.	.	PUNCT	_	_	31	punct	_	_
+
+# sent_id = C__20
+# text = Εγώ προσωπικά εν πάω εκκλησίαν ούτε σ τες γιορτές ούτε για προσκύνημαν ούτε για τίποτε .
+1	Εγώ	εγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	προσωπικά	προσωπικά	ADV	_	_	4	advmod	_	_
+3	εν	εν	PART	_	Polarity=Neg	4	advmod	_	_
+4	πάω	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	εκκλησίαν	εκκλησία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+6	ούτε	ούτε	CCONJ	_	_	9	cc	_	_
+7	σ	σε	ADP	_	_	9	case	_	_
+8	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	γιορτές	γιορτή	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
+10	ούτε	ούτε	CCONJ	_	_	12	cc	_	_
+11	για	για	ADP	_	_	12	case	_	_
+12	προσκύνημαν	προσκύνημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	conj	_	_
+13	ούτε	ούτε	CCONJ	_	_	15	cc	_	_
+14	για	για	ADP	_	_	15	case	_	_
+15	τίποτε	τίποτε	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	9	conj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = C__21
+# text = Έναν χόμπιν το οποίον εννά ήθελα να αφιερώσω μιαν μέραν χρόνον για να μάθω εννά ήταν το να ξέρω να παίζω κιθάραν , διότι αρέσκει μου η μουσική .
+1	Έναν	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	χόμπιν	χόμπιν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	19	nsubj:outer	_	_
+3	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	οποίον	οποίος	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	dislocated	_	_
+5	εννά	εννά	AUX	_	Tense=Fut	6	aux	_	_
+6	ήθελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+7	να	να	SCONJ	_	_	8	mark	_	_
+8	αφιερώσω	αφιερώννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+9	μιαν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	μέραν	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+11	χρόνον	χρόνος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+12	για	για	ADP	_	ExtPos=SCONJ	14	mark	_	_
+13	να	να	SCONJ	_	_	12	fixed	_	_
+14	μάθω	μαθθαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	advcl	_	_
+15	εννά	εννά	AUX	_	Tense=Fut	19	aux	_	_
+16	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	19	cop	_	_
+17	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
+18	να	να	SCONJ	_	_	19	mark	_	_
+19	ξέρω	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	να	να	SCONJ	_	_	21	mark	_	_
+21	παίζω	παίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	xcomp	_	_
+22	κιθάραν	κιθάρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	διότι	διότι	SCONJ	_	_	25	mark	_	_
+25	αρέσκει	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	_
+26	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	25	obl	_	_
+27	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	μουσική	μουσική	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+29	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = C__22
+# text = Η αγαπημένη μου εποχή του χρόνου ήταν τα καλοτζ̆αίρκα που εκλείαν τα σχολεία τζ̆αι εμεινίσκαμεν σπίτιν τζ̆αι εμπορούσαμεν να κάμουμεν ό,τι θέλουμεν .
+1	Η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+2	αγαπημένη	αγαπημένος	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	amod	_	_
+3	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+4	εποχή	εποχή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+5	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	χρόνου	χρόνος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
+9	καλοτζ̆αίρκα	καλοτζ̆αίριν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+10	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	obl	_	_
+11	εκλείαν	κλείνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+12	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
+13	σχολεία	σχολείο	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
+14	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+15	εμεινίσκαμεν	μεινίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+16	σπίτιν	σπίτιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	_
+17	τζ̆αι	τζ̆αι	CCONJ	_	Polarity=Neg	18	cc	_	_
+18	εμπορούσαμεν	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
+19	να	να	SCONJ	_	_	20	mark	_	_
+20	κάμουμεν	κάμω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	18	xcomp	_	_
+21	ό,τι	ό,τι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	20	obj	_	_
+22	θέλουμεν	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = C__23
+# text = Αρέσκουν μου πολλά οι Ανεμούριο , επειδή εν αντρέπουνται τζ̆αι λαλούν τα ούλλα έτσι όπως ένι .
+1	Αρέσκουν	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+3	πολλά	πολλά	ADV	_	PronType=Ind	1	advmod	_	_
+4	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Ανεμούριο	Ανεμούριο	PROPN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	επειδή	επειδή	SCONJ	_	_	9	mark	_	_
+8	εν	εν	PART	_	Polarity=Neg	9	advmod	_	_
+9	αντρέπουνται	αντρέπουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+10	τζ̆αι	τζ̆αι	CCONJ	_	_	11	cc	_	_
+11	λαλούν	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+12	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+13	ούλλα	ούλλος	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	12	det	_	_
+14	έτσι	έτσι	ADV	_	_	11	advcl	_	_
+15	όπως	όπως	ADV	_	PronType=Rel	14	advmod	_	_
+16	ένι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__24
+# text = Ε , τον τζ̆αιρόν μου , είχασιν που τούτα τα χρηματοκιβώτια , ε , τωρά εν ι-ξέρω ίνταμπου κάμνουσιν , λογικά εν’ μες στα κκοππιούτερ .
+1	Ε	ε	INTJ	_	_	7	discourse	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	τζ̆αιρόν	τζ̆αιρός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+5	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	είχασιν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	που	που	ADP	_	_	9	case	_	_
+9	τούτα	τούτος	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	7	obl	_	_
+10	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
+11	χρηματοκιβώτια	χρηματοκιβώτιον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+12	,	,	PUNCT	_	_	7	punct	_	_
+13	ε	ε	INTJ	_	_	15	discourse	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	τωρά	τωρά	ADV	_	_	17	advmod	_	_
+16	εν	εν	PART	_	Polarity=Neg	17	advmod	_	_
+17	ι-ξέρω	ξέρω	VERB	_	_	7	parataxis	_	MGloss=euphonic-know|MSeg=ι-ξέρω
+18	ίνταμπου	ίνταμπου	PRON	_	PronType=Int	19	obj	_	_
+19	κάμνουσιν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	ccomp	_	_
+20	,	,	PUNCT	_	_	7	punct	_	_
+21	λογικά	λογικά	ADV	_	_	23	advmod	_	_
+22	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	μες	μέσα	ADV	_	_	7	parataxis	_	_
+24-25	στα	_	_	_	_	_	_	_	_
+24	σ	σε	ADP	_	_	26	case	_	_
+25	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	26	det	_	_
+26	κκοππιούτερ	κκοππιούτερ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	23	obl	_	_
+27	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = C__25
+# text = Αν κάποιον γιατρόν νιώθω ότι εν τον εμπιστεύκουμαι , εννά τον αλλάξω .
+1	Αν	αν	SCONJ	_	_	4	mark	_	_
+2	κάποιον	κάποιος	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	γιατρόν	γιατρός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	dislocated	_	_
+4	νιώθω	νιώθω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+5	ότι	ότι	SCONJ	_	_	8	mark	_	_
+6	εν	εν	PART	_	Polarity=Neg	8	advmod	_	_
+7	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+8	εμπιστεύκουμαι	εμπιστεύκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	εννά	εννά	AUX	_	Tense=Fut	12	aux	_	_
+11	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	αλλάξω	αλλάζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = C__26
+# text = Ε η αλήθκεια εν τον πιερώννω εγώ τον λοαρκασμόν του κινητού , πιερώννουμεν τον οικογενειακώς , τζ̆αι εν είμαι σίουρη πώς ακριβώς τον πιερώννουμεν .
+1	Ε	ε	INTJ	_	_	3	discourse	_	_
+2	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	αλήθκεια	αλήθκεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:outer	_	_
+4	εν	εν	PART	_	Polarity=Neg	6	advmod	_	_
+5	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+6	πιερώννω	πιερώννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	εγώ	εγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+8	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	λοαρκασμόν	λοαρκασμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+10	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	κινητού	κινητόν	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	πιερώννουμεν	πιερώννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+14	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	οικογενειακώς	οικογενειακώς	ADV	_	_	13	advmod	_	_
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+18	εν	εν	PART	_	Polarity=Neg	20	advmod	_	_
+19	είμαι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	σίουρη	σίουρος	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+21	πώς	πώς	ADV	_	PronType=Int	24	advmod	_	_
+22	ακριβώς	ακριβώς	ADV	_	_	24	advmod	_	_
+23	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	πιερώννουμεν	πιερώννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = C__27
+# text = Συνήθως εν χρειάζεται κάτι άλλον , εκτός αν πάω τζ̆ειαμαί τζ̆αι θέλουν έγγραφον για να μείνω τζ̆ειαμαί μήνες .
+1	Συνήθως	συνήθως	ADV	_	_	3	advmod	_	_
+2	εν	εν	PART	_	Polarity=Neg	3	advmod	_	_
+3	χρειάζεται	χρειάζουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	κάτι	κάτι	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	nsubj	_	_
+5	άλλον	άλλος	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	det	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	εκτός	εκτός	ADV	_	_	9	advmod	_	_
+8	αν	αν	SCONJ	_	_	9	mark	_	_
+9	πάω	πηαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	3	advcl	_	_
+10	τζ̆ειαμαί	τζ̆ειαμαί	ADV	_	PronType=Dem	9	advmod	_	_
+11	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+12	θέλουν	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+13	έγγραφον	έγγραφον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	για	για	ADP	_	ExtPos=SCONJ	16	mark	_	_
+15	να	να	SCONJ	_	_	14	fixed	_	_
+16	μείνω	μεινίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	advcl	_	_
+17	τζ̆ειαμαί	τζ̆ειαμαί	ADV	_	PronType=Dem	16	advmod	_	_
+18	μήνες	μήνας	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__28
+# text = Εννά αποταθώ σε φίλους τζ̆αι συγγενείς για να μου συστήσουν κάποιον .
+1	Εννά	εννά	AUX	_	Tense=Fut	2	aux	_	_
+2	αποταθώ	αποτείνουμαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	σε	σε	ADP	_	_	4	case	_	_
+4	φίλους	φίλος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	συγγενείς	συγγενής	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
+7	για	για	ADP	_	ExtPos=SCONJ	10	mark	_	_
+8	να	να	SCONJ	_	_	7	fixed	_	_
+9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	συστήσουν	συστήννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	2	advcl	_	_
+11	κάποιον	κάποιος	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__29
+# text = Δυστυχώς εν γνωρίζω τι προγράμματα πρόνοιας προσφέρει η κυβέρνηση αλλά που τα λεγόμενα του κόσμου ξέρω ότι έννεν’ πολλά ευχαριστημένοι .
+1	Δυστυχώς	δυστυχώς	ADV	_	_	3	advmod	_	_
+2	εν	εν	PART	_	Polarity=Neg	3	advmod	_	_
+3	γνωρίζω	γνωρίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	τι	τι	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Int	5	det	_	_
+5	προγράμματα	πρόγραμμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
+6	πρόνοιας	πρόνοια	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	προσφέρει	προσφέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	κυβέρνηση	κυβέρνηση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+10	αλλά	αλλά	CCONJ	_	_	16	cc	_	_
+11	που	που	ADP	_	_	13	case	_	_
+12	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
+13	λεγόμενα	λεγόμενον	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	16	obl	_	_
+14	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	κόσμου	κόσμος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	ξέρω	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+17	ότι	ότι	SCONJ	_	_	21	mark	_	_
+18-19	έννεν’	_	_	_	_	_	_	_	_
+18	εν	εν	PART	_	Polarity=Neg	21	advmod	_	_
+19	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	πολλά	πολλά	ADV	_	PronType=Ind	21	advmod	_	_
+21	ευχαριστημένοι	ευχαριστημένος	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	16	ccomp	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__30
+# text = Χρειάζουνται , διότι διούν τους την δυνατότηταν να δουν έναν περίπου , ε , τι εμάθασιν , τζ̆αι να έχουν τζ̆αι μιαν ιδέαν οι γονιοί του πώς τα πάει το κοπελλούιν τους .
+1	Χρειάζουνται	χρειάζουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	διότι	διότι	SCONJ	_	_	4	mark	_	_
+4	διούν	διώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
+6	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	δυνατότηταν	δυνατότητα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+8	να	να	SCONJ	_	_	9	mark	_	_
+9	δουν	θωρώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	_
+10	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	reparandum	_	_
+11	περίπου	περίπου	ADV	_	_	10	advmod	_	_
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	ε	ε	INTJ	_	_	16	discourse	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	τι	τι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	16	obj	_	_
+16	εμάθασιν	μαθθαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+19	να	να	SCONJ	_	_	20	mark	_	_
+20	έχουν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+21	τζ̆αι	τζ̆αι	CCONJ	_	_	23	cc	_	_
+22	μιαν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	ιδέαν	ιδέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+24	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	γονιοί	γονιός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+26	του	εγώ	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod	_	_
+27	πώς	πώς	ADV	_	PronType=Int	29	advmod	_	_
+28	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	29	expl	_	_
+29	πάει	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+30	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	31	det	_	_
+31	κοπελλούιν	κοπέλλιν	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	29	nsubj	_	_
+32	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	nmod	_	_
+33	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__31
+# text = Η τεχνητή νοημοσύνη μπορεί να χρησιμοποιηθεί σχεδόν παντού πιστεύκω .
+1	Η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	τεχνητή	τεχνητός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	νοημοσύνη	νοημοσύνη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	να	να	SCONJ	_	_	6	mark	_	_
+6	χρησιμοποιηθεί	χρησιμοποιώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	4	xcomp	_	_
+7	σχεδόν	σχεδόν	ADV	_	_	8	advmod	_	_
+8	παντού	παντού	ADV	_	PronType=Tot	6	advmod	_	_
+9	πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = C__32
+# text = Εμαθθαίνναμεν να κάμνουμεν δουλειές στο σπίτιν τζ̆αι στα χωράφκια που τους γονείς μας βασικά , που τζ̆αι τζ̆είνοι εμαθθαίνναν που τους δικούς τους γονείς .
+1	Εμαθθαίνναμεν	μαθθαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	να	να	SCONJ	_	_	3	mark	_	_
+3	κάμνουμεν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	δουλειές	δουλειά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+5-6	στο	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	_	_	7	case	_	_
+6	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	σπίτιν	σπίτιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+8	τζ̆αι	τζ̆αι	CCONJ	_	_	11	cc	_	_
+9-10	στα	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	_	_	11	case	_	_
+10	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
+11	χωράφκια	χωράφιν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	conj	_	_
+12	που	που	ADP	_	_	14	case	_	_
+13	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	γονείς	γονιός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	_
+15	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod	_	_
+16	βασικά	βασικά	ADV	_	_	14	advmod	_	_
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	21	nsubj	_	_
+19	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+20	τζ̆είνοι	τζ̆είνος	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+21	εμαθθαίνναν	μαθθαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+22	που	που	ADP	_	_	26	case	_	_
+23	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+24	δικούς	δικός	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	26	det	_	_
+25	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod	_	_
+26	γονείς	γονιός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	obl	_	_
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__33
+# text = Εκάθετουν η μάνα μου τζ̆’ υπολόγιζεν τα πά’ στην κόλλαν .
+1	Εκάθετουν	κάθουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	μάνα	μάνα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	τζ̆’	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	υπολόγιζεν	υπολογίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8	πά’	πάνω	ADV	_	_	6	advmod	_	_
+9-10	στην	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	_	_	11	case	_	_
+10	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	κόλλαν	κόλλα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__34
+# text = Έντζ̆ε παίζουμεν παραδοσιακά παιχνίθκια στην κοινότηταν μου .
+1	Έντζ̆ε	έντζ̆ε	PART	_	Polarity=Neg	2	advmod	_	_
+2	παίζουμεν	παίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	παραδοσιακά	παραδοσιακός	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	_
+4	παιχνίθκια	παιχνίδιν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5-6	στην	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	_	_	7	case	_	_
+6	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	κοινότηταν	κοινότητα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+8	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__35
+# text = Αρέσκει μου πολλά να κολυμπώ , έσ̆ει μιαν ελευθερίαν τούντο πράμαν τζ̆αι εν’ πολλά καλή άσκηση τζ̆αι πολλά χαλαρωτική .
+1	Αρέσκει	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+3	πολλά	πολλά	ADV	_	PronType=Ind	1	advmod	_	_
+4	να	να	SCONJ	_	_	5	mark	_	_
+5	κολυμπώ	κολυμπώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	1	csubj	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	μιαν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ελευθερίαν	ελευθερία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+10-11	τούντο	_	_	_	_	_	_	_	_
+10	τούτον	τούτος	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	_
+11	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	πράμαν	πράμαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+13	τζ̆αι	τζ̆αι	CCONJ	_	_	17	cc	_	_
+14	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+15	πολλά	πολλά	ADV	_	PronType=Ind	16	advmod	_	_
+16	καλή	καλός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
+17	άσκηση	άσκηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
+18	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+19	πολλά	πολλά	ADV	_	PronType=Ind	20	advmod	_	_
+20	χαλαρωτική	χαλαρωτικός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	17	conj	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__36
+# text = Έναν ιστορικόν πρόσωπον της κοινότητας μου , της Παλώθκιας δηλαδή , εν’ ο Νίκος Ευαγόρου , ο οποίος ήταν αγωνιστής του πενηνταπέντε - πενηνταεννιά τζ̆αι … είχαν τον σκοτώσει οι … Άγγλοι στα βουνά της Παλώθκιας .
+1	Έναν	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+2	ιστορικόν	ιστορικός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	πρόσωπον	πρόσωπον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	κοινότητας	κοινότητα	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Παλώθκιας	Παλώθκια	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	appos	_	_
+10	δηλαδή	δηλαδή	CCONJ	_	_	9	cc	_	_
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+13	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Νίκος	Νίκος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+15	Ευαγόρου	Ευαγόρου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	14	flat	_	_
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	οποίος	οποίος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
+19	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
+20	αγωνιστής	αγωνιστής	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	acl:relcl	_	_
+21	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
+22	πενηνταπέντε	πενηνταπέντε	NUM	_	Case=Gen|Gender=Neut|Number=Sing|NumType=Card	20	nmod	_	_
+23	-	-	PUNCT	_	_	22	punct	_	_
+24	πενηνταεννιά	πενηνταεννιά	NUM	_	Case=Gen|Gender=Neut|Number=Sing|NumType=Card	22	conj	_	_
+25	τζ̆αι	τζ̆αι	CCONJ	_	_	29	cc	_	_
+26	…	…	PUNCT	_	_	29	punct	_	_
+27	είχαν	έχω	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	29	aux	_	_
+28	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_
+29	σκοτώσει	σκοτώννω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	conj	_	_
+30	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
+31	…	…	PUNCT	_	_	32	punct	_	_
+32	Άγγλοι	Άγγλος	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	_
+33-34	στα	_	_	_	_	_	_	_	_
+33	σ	σε	ADP	_	_	35	case	_	_
+34	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	35	det	_	_
+35	βουνά	βουνόν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	29	obl	_	_
+36	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	Παλώθκιας	Παλώθκια	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+38	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__37
+# text = Έναν τοπικόν φεστιβάλ που πάει η οικογένεια μου εν’ κυρίως το φεστιβάλ του κρασ̆ιού , που γίνεται αν δεν κάμνω λάθος μέσα στο φθινόπωρον , αλλά πέραν τούτου εν έσ̆ει κάτι άλλον .
+1	Έναν	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+2	τοπικόν	τοπικός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	φεστιβάλ	φεστιβάλ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+4	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obl	_	_
+5	πάει	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+6	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	οικογένεια	οικογένεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+8	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	κυρίως	κυρίως	ADV	_	_	12	advmod	_	_
+11	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	φεστιβάλ	φεστιβάλ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+13	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	κρασ̆ιού	κρασίν	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
+17	γίνεται	γίνουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
+18	αν	αν	SCONJ	_	_	20	mark	_	_
+19	δεν	δεν	PART	_	Polarity=Neg	20	advmod	_	_
+20	κάμνω	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	_
+21	λάθος	λάθος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	μέσα	μέσα	ADV	_	_	17	advmod	_	_
+23-24	στο	_	_	_	_	_	_	_	_
+23	σ	σε	ADP	_	_	25	case	_	_
+24	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	25	det	_	_
+25	φθινόπωρον	φθινόπωρον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obl	_	_
+26	,	,	PUNCT	_	_	12	punct	_	_
+27	αλλά	αλλά	CCONJ	_	_	31	cc	_	_
+28	πέραν	πέραν	ADV	_	ExtPos=ADV	31	advmod	_	_
+29	τούτου	τούτος	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	28	fixed	_	_
+30	εν	εν	PART	_	Polarity=Neg	31	advmod	_	_
+31	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	12	conj	_	_
+32	κάτι	κάτι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	31	obj	_	_
+33	άλλον	άλλος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	32	det	_	_
+34	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = C__38
+# text = Εδυσκολεύκουμουν στες εκθέσεις των ελληνικών πολλά , επειδή ήμουν τζ̆’ ανορθόγραφος τζ̆αι πάντα έφκαιννα εχτός θέματος .
+1	Εδυσκολεύκουμουν	δυσκολεύκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2-3	στες	_	_	_	_	_	_	_	_
+2	σ	σε	ADP	_	_	4	case	_	_
+3	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	εκθέσεις	έκθεση	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	_
+5	των	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
+6	ελληνικών	ελληνικά	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	πολλά	πολλά	ADV	_	PronType=Ind	1	advmod	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	επειδή	επειδή	SCONJ	_	_	12	mark	_	_
+10	ήμουν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	cop	_	_
+11	τζ̆’	τζ̆αι	CCONJ	_	_	12	cc	_	_
+12	ανορθόγραφος	ανορθόγραφος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	_
+13	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+14	πάντα	πάντα	ADV	_	PronType=Tot	15	advmod	_	_
+15	έφκαιννα	φκαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+16	εχτός	εχτός	ADP	_	ExtPos=ADV	15	advmod	_	_
+17	θέματος	θέμαν	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	16	fixed	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__39
+# text = Εννά ’θελα να ’μουν πουλλίν για να μπορώ να πετάσω , γιατί τα πουλλιά εν’ πιο ελεύθερα που τα υπόλοιπα ζώα που κατοικούν στην γην τζ̆αι έχουν εμπόδια τζ̆αι περιορισμούς .
+1	Εννά	εννά	AUX	_	Tense=Fut	2	aux	_	_
+2	’θελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	5	mark	_	_
+4	’μουν	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	πουλλίν	πουλλίν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	_
+6	για	για	ADP	_	ExtPos=SCONJ	8	mark	_	_
+7	να	να	SCONJ	_	_	6	fixed	_	_
+8	μπορώ	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+9	να	να	SCONJ	_	_	10	mark	_	_
+10	πετάσω	πετώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	xcomp	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	γιατί	γιατί	SCONJ	_	_	17	mark	_	_
+13	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	det	_	_
+14	πουλλιά	πουλλίν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	17	nsubj	_	_
+15	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	πιο	πιο	ADV	_	Degree=Cmp	17	advmod	_	_
+17	ελεύθερα	ελεύθερος	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	2	advcl	_	_
+18	που	που	SCONJ	_	_	21	case	_	_
+19	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	21	det	_	_
+20	υπόλοιπα	υπόλοιπος	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	21	amod	_	_
+21	ζώα	ζώον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	17	obl	_	_
+22	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	23	nsubj	_	_
+23	κατοικούν	κατοικώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
+24-25	στην	_	_	_	_	_	_	_	_
+24	σ	σε	ADP	_	_	26	case	_	_
+25	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	γην	γη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
+27	τζ̆αι	τζ̆αι	CCONJ	_	_	28	cc	_	_
+28	έχουν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
+29	εμπόδια	εμπόδιον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	28	obj	_	_
+30	τζ̆αι	τζ̆αι	CCONJ	_	_	31	cc	_	_
+31	περιορισμούς	περιορισμός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	conj	_	_
+32	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__40
+# text = Τ’ αγαπημένα μου ρούχα ήταν πάντα τζ̆είνα που θθυμίζουν δεκαετίες ’70 .
+1	Τ’	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+2	αγαπημένα	αγαπημένος	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	4	amod	_	_
+3	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+4	ρούχα	ρούχον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+5	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+6	πάντα	πάντα	ADV	_	PronType=Tot	4	advmod	_	_
+7	τζ̆είνα	τζ̆είνος	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	4	nsubj	_	_
+8	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	9	nsubj	_	_
+9	θθυμίζουν	θθυμίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+10	δεκαετίες	δεκαετία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+11	’70	'70	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = C__41
+# text = Οπότε το σχολείον εν μπορεί να κάμει κάτι , εν’ στο σ̆έριν των γονιών .
+1	Οπότε	οπότε	SCONJ	_	_	5	mark	_	_
+2	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	σχολείον	σχολείον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	εν	εν	PART	_	Polarity=Neg	5	advmod	_	_
+5	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+6	να	να	SCONJ	_	_	7	mark	_	_
+7	κάμει	κάμνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	xcomp	_	_
+8	κάτι	κάτι	DET	_	PronType=Ind	7	obj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+11-12	στο	_	_	_	_	_	_	_	_
+11	σ	σε	ADP	_	_	13	case	_	_
+12	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	σ̆έριν	σ̆έριν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+14	των	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	γονιών	γονιός	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+16	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = C__42
+# text = Σίουρα παλιόττερα εσ̆ιόνιζεν παραπάνω απ’ ό,τι τωρά , θθυμούμαι στο Τροόδος τον σ̆ειμώναν που έκαμνεν δυο με δυόμισι μέτρα σ̆ιόνιν .
+1	Σίουρα	σίουρα	ADV	_	_	3	advmod	_	_
+2	παλιόττερα	παλιά	ADV	_	Degree=Cmp	3	advmod	_	_
+3	εσ̆ιόνιζεν	σ̆ιονίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	παραπάνω	παραπάνω	ADV	_	_	3	advmod	_	_
+5	απ’	από	ADP	_	_	6	case	_	_
+6	ό,τι	ό,τι	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obl	_	_
+7	τωρά	τωρά	ADV	_	_	6	orphan	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	θθυμούμαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	3	parataxis	_	_
+10-11	στο	_	_	_	_	_	_	_	_
+10	σ	σε	ADP	_	_	12	case	_	_
+11	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	Τροόδος	Τροόδος	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+13	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	σ̆ειμώναν	σ̌ειμώνας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+15	που	που	SCONJ	_	_	16	mark	_	_
+16	έκαμνεν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+17	δυο	δύο	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	20	nummod	_	_
+18	με	με	ADP	_	_	19	case	_	_
+19	δυόμισι	δυόμισι	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Frac	20	nummod	_	_
+20	μέτρα	μέτρον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	21	nmod	_	_
+21	σ̆ιόνιν	σ̆ιόνιν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__43
+# text = Θθυμούμαι έντονα τα φύλλα των δέντρων που εππέφτασιν , τζ̆αι τους θάμνους που εξιρανίσκαν λλίον το φθινόπωρον τζ̆αι τον σ̆ειμώναν .
+1	Θθυμούμαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	έντονα	έντονα	ADV	_	_	1	advmod	_	_
+3	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	φύλλα	φύλλον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+5	των	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
+6	δέντρων	δέντρον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	8	nsubj	_	_
+8	εππέφτασιν	ππέφτω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+11	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	θάμνους	θάμνος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
+13	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	14	nsubj	_	_
+14	εξιρανίσκαν	ξιρανίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+15	λλίον	λλίον	ADV	_	_	14	advmod	_	_
+16	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
+17	φθινόπωρον	φθινόπωρον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+18	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+19	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	σ̆ειμώναν	σ̆ειμώνας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	conj	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__44
+# text = Πιάννεις τηλέφωνον κανέναν γνωστόν τζ̆αι διά σου τα στοιχεία κάποιου δικηγόρου .
+1	Πιάννεις	πιάννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ParsemeMWE=1:VID
+2	τηλέφωνον	τηλέφωνον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ParsemeMWE=1
+3	κανέναν	κανένας	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Neg	4	det	_	_
+4	γνωστόν	γνωστός	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	διά	διώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+8	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
+9	στοιχεία	στοιχείον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+10	κάποιου	κάποιος	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+11	δικηγόρου	δικηγόρος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__45
+# text = Πιστεύκω ότι προσπαθούν όσον μπόρουν , αλλά εννά εμπορούσαν τζ̆αι καλλύττερα .
+1	Πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ότι	ότι	SCONJ	_	_	3	mark	_	_
+3	προσπαθούν	προσπαθώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	όσον	όσον	ADV	_	PronType=Rel	5	advmod	_	_
+5	μπόρουν	μπόρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	αλλά	αλλά	CCONJ	_	_	9	cc	_	_
+8	εννά	εννά	AUX	_	Tense=Fut	9	aux	_	_
+9	εμπορούσαν	μπόρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+10	τζ̆αι	τζ̆αι	CCONJ	_	_	11	cc	_	_
+11	καλλύττερα	καλά	ADV	_	Degree=Cmp	9	advmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__46
+# text = Εν έζησα σε εποχήν που εν είσ̆εν τηλεόρασην οπότε εν ι-μπόρω να πω πώς εμάθθαινναν τα νέα τότε που εν είσ̆εν τηλεόρασην .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	έζησα	ζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	σε	σε	ADP	_	_	4	case	_	_
+4	εποχήν	εποχή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	7	obl	_	_
+6	εν	εν	PART	_	Polarity=Neg	7	advmod	_	_
+7	είσ̆εν	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+8	τηλεόρασην	τηλεόραση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	οπότε	οπότε	SCONJ	_	_	11	mark	_	_
+10	εν	εν	PART	_	Polarity=Neg	11	advmod	_	_
+11	ι-μπόρω	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	MGloss=euphonic-can|MSeg=ι-μπόρω
+12	να	να	SCONJ	_	_	13	mark	_	_
+13	πω	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	11	xcomp	_	_
+14	πώς	πώς	ADV	_	PronType=Int	15	advmod	_	_
+15	εμάθθαινναν	μαθθαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+16	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	det	_	_
+17	νέα	νέον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+18	τότε	τότε	ADV	_	PronType=Dem	15	advmod	_	_
+19	που	που	SCONJ	_	_	21	mark	_	_
+20	εν	εν	PART	_	Polarity=Neg	21	advmod	_	_
+21	είσ̆εν	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
+22	τηλεόρασην	τηλεόραση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__47
+# text = Νναι , ξέρω την παροιμίαν « αλλού τον τρώει τζ̆αι αλλού κνήθεται » , που σημαίνει ότι άλλος του φταίει τζ̆αι άλλη εν’ η ρίζα του προβλήματος .
+1	Νναι	νναι	INTJ	_	Polarity=Pos	3	discourse	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ξέρω	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	παροιμίαν	παροιμία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	«	«	PUNCT	_	_	9	punct	_	_
+7	αλλού	αλλού	ADV	_	_	9	advmod	_	_
+8	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	τρώει	τρώω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	appos	_	_
+10	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+11	αλλού	αλλού	ADV	_	_	12	advmod	_	_
+12	κνήθεται	κνήθω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+13	»	»	PUNCT	_	_	9	punct	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
+16	σημαίνει	σημαίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+17	ότι	ότι	SCONJ	_	_	20	mark	_	_
+18	άλλος	άλλος	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
+19	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+20	φταίει	φταίω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	_
+21	τζ̆αι	τζ̆αι	CCONJ	_	_	25	cc	_	_
+22	άλλη	άλλος	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	25	nsubj	_	_
+23	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+24	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	ρίζα	ρίζα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	conj	_	_
+26	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	27	det	_	_
+27	προβλήματος	πρόβλημαν	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+28	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__48
+# text = Εν ακούω τόσον ράδιον , ακούω κάποιες φορές στο αυτοκίνητον , αλλά έννεν’ ότι βάλλω να ακούσω κάποιον συγκεκριμένον πρόγραμμαν .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	ακούω	ακούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	τόσον	τόσος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	det	_	_
+4	ράδιον	ράδιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	ακούω	ακούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+7	κάποιες	κάποιος	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	φορές	φορά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
+9-10	στο	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	_	_	11	case	_	_
+10	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	αυτοκίνητον	αυτοκίνητον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+12	,	,	PUNCT	_	_	6	punct	_	_
+13	αλλά	αλλά	CCONJ	_	_	17	cc	_	_
+14-15	έννεν’	_	_	_	_	_	_	_	_
+14	εν	εν	PART	_	Polarity=Neg	17	advmod	_	_
+15	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	ότι	ότι	SCONJ	_	_	17	mark	_	_
+17	βάλλω	βάλλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+18	να	να	SCONJ	_	_	19	mark	_	_
+19	ακούσω	ακούω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	17	advcl	_	_
+20	κάποιον	κάποιος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	22	det	_	_
+21	συγκεκριμένον	συγκεκριμένος	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	22	amod	_	_
+22	πρόγραμμαν	πρόγραμμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__49
+# text = Επαίζαμεν πολλύν χωστόν , δηλαδή εκαμμούσεν ένας τζ̆αι οι άλλοι εχώννουνταν τζ̆αι έπρεπεν να φκει να τους έβρει .
+1	Επαίζαμεν	παίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	πολλύν	πολύς	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	χωστόν	χωστός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	δηλαδή	δηλαδή	CCONJ	_	_	6	cc	_	_
+6	εκαμμούσεν	καμμώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	ένας	ένας	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
+8	τζ̆αι	τζ̆αι	CCONJ	_	_	11	cc	_	_
+9	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	άλλοι	άλλος	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
+11	εχώννουνταν	χώννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	_
+12	τζ̆αι	τζ̆αι	CCONJ	_	_	13	cc	_	_
+13	έπρεπεν	πρέπει	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+14	να	να	SCONJ	_	_	15	mark	_	_
+15	φκει	φκάλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	13	csubj	_	_
+16	να	να	SCONJ	_	_	18	mark	_	_
+17	τους	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	έβρει	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	15	advcl	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__50
+# text = Έχω μια κότσ̆ινην ζακέτταν που εγόρασα που « θριφτ στορ » .
+1	Έχω	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	κότσ̆ινην	κότσ̆ινος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+4	ζακέτταν	ζακέττα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	obj	_	_
+6	εγόρασα	αγοράζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+7	που	που	ADP	_	_	9	case	_	_
+8	«	«	PUNCT	_	_	9	punct	_	_
+9	θριφτ	θριφτ	X	_	_	6	obl	_	_
+10	στορ	στορ	X	_	_	9	flat	_	_
+11	»	»	PUNCT	_	_	9	punct	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__51
+# text = Εννά ’θελα να παίζω πιάνον , γιατί η μουσική εν’ τζ̆’ ένας τρόπος να εκφράζεις τα συναισθήματα σου .
+1	Εννά	εννά	AUX	_	Tense=Fut	2	aux	_	_
+2	’θελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	4	mark	_	_
+4	παίζω	παίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	πιάνον	πιάνον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	γιατί	γιατί	SCONJ	_	_	13	mark	_	_
+8	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	μουσική	μουσική	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+10	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	13	cop	_	_
+11	τζ̆’	τζ̆αι	CCONJ	_	_	13	cc	_	_
+12	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	τρόπος	τρόπος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	_
+14	να	να	SCONJ	_	_	15	mark	_	_
+15	εκφράζεις	εκφράζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+16	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	det	_	_
+17	συναισθήματα	συναίσθημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+18	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	nmod	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__52
+# text = Είχα μιαν φανέλλαν που ήταν έτσι ροδακινίν , τζ̆’ είσ̆εν πάνω έναν τσ̆ιουάουα , η οποία μου άρεσκεν πάρα πολλά .
+1	Είχα	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μιαν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	φανέλλαν	φανέλλα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+4	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	_
+5	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	έτσι	έτσι	ADV	_	_	7	advmod	_	_
+7	ροδακινίν	ροδακινίν	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	acl:relcl	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	τζ̆’	τζ̆αι	CCONJ	_	_	10	cc	_	_
+10	είσ̆εν	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+11	πάνω	πάνω	ADV	_	_	10	advmod	_	_
+12	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	τσ̆ιουάουα	τσ̆ιουάουα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	οποία	οποίος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
+17	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	obl	_	_
+18	άρεσκεν	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+19	πάρα	πάρα	ADV	_	_	20	amod	_	_
+20	πολλά	πολλά	ADV	_	PronType=Ind	18	advmod	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__53
+# text = Το κύριον είδος μετανάστευσης που έχουμεν προς την Κύπρον εν’ οι οικονομικοί μετανάστες οι οποίοι έρκουνται στην Κύπρον νοουμένου ότι εννά φκάλουν παραπάνω λεφτά .
+1	Το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+2	κύριον	κύριος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	είδος	είδος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	μετανάστευσης	μετανάστευση	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	_
+6	έχουμεν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+7	προς	προς	ADP	_	_	9	case	_	_
+8	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Κύπρον	Κύπρος	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+10	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	οικονομικοί	οικονομικός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	13	amod	_	_
+13	μετανάστες	μετανάστης	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+14	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	οποίοι	οποίος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	_	_
+16	έρκουνται	έρκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl:relcl	_	_
+17-18	στην	_	_	_	_	_	_	_	_
+17	σ	σε	ADP	_	_	19	case	_	_
+18	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Κύπρον	Κύπρος	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+20	νοουμένου	νοώ	VERB	_	Case=Acc|ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	23	mark	_	_
+21	ότι	ότι	SCONJ	_	_	20	fixed	_	_
+22	εννά	εννά	AUX	_	Tense=Fut	23	aux	_	_
+23	φκάλουν	φκάλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+24	παραπάνω	παραπάνω	ADV	_	_	25	amod	_	_
+25	λεφτά	λεφτά	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	23	obj	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__54
+# text = Εννά ’θελα να μάθω έναν μουσικόν όργανον , ίσως πιάνον , γιατί παίζοντας μουσικήν εν’ τζ̆’ ένας τρόπος να εκφράζεις τα συναισθήματα σου .
+1	Εννά	εννά	AUX	_	Tense=Fut	2	aux	_	_
+2	’θελα	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	4	mark	_	_
+4	μάθω	μαθαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+6	μουσικόν	μουσικός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	_
+7	όργανον	όργανον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	ίσως	ίσως	ADV	_	_	10	advmod	_	_
+10	πιάνον	πιάνον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	γιατί	γιατί	SCONJ	_	_	18	mark	_	_
+13	παίζοντας	παίζω	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	18	advcl	_	_
+14	μουσικήν	μουσική	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+16	τζ̆’	τζ̆αι	CCONJ	_	_	18	cc	_	_
+17	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	τρόπος	τρόπος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	_
+19	να	να	SCONJ	_	_	20	mark	_	_
+20	εκφράζεις	εκφράζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	_
+21	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	22	det	_	_
+22	συναισθήματα	συναίσθημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	_
+23	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	22	nmod	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__55
+# text = Το πιο όμορφον πράμαν στο σπίτιν μου εν’ η θέα .
+1	Το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+2	πιο	πιο	ADV	_	Degree=Cmp	3	advmod	_	_
+3	όμορφον	όμορφος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
+4	πράμαν	πράμαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+5-6	στο	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	_	_	7	case	_	_
+6	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	σπίτιν	σπίτιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+8	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	θέα	θέα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = C__56
+# text = Έννεν’ πολλά καλές στο μαείρεμμαν , οπότε απλά επιάνναμεν , ε … γλυκά που τον Ζορπάν .
+1-2	Έννεν’	_	_	_	_	_	_	_	_
+1	Εν	εν	PART	_	Polarity=Neg	4	advmod	_	_
+2	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	πολλά	πολλά	ADV	_	PronType=Ind	4	advmod	_	_
+4	καλές	καλός	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+5-6	στο	_	_	_	_	_	_	_	_
+5	σ	σε	ADP	_	_	7	case	_	_
+6	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	μαείρεμμαν	μαείρεμμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	οπότε	οπότε	SCONJ	_	_	11	mark	_	_
+10	απλά	απλά	ADV	_	_	11	advmod	_	_
+11	επιάνναμεν	πιάννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	ε	ε	CCONJ	_	_	15	discourse	_	_
+14	…	…	PUNCT	_	_	15	punct	_	_
+15	γλυκά	γλυκόν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+16	που	που	ADP	_	_	18	case	_	_
+17	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Ζορπάν	Ζορπάς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = C__57
+# text = Ε , λαλούν με Αντρέαν , τζ̆αι σημαίνει θαραλλέος νομίζω .
+1	Ε	ε	INTJ	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	λαλούν	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	Αντρέαν	Αντρέας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	xcomp	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	τζ̆αι	τζ̆αι	CCONJ	_	_	8	cc	_	_
+8	σημαίνει	σημαίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	θαραλλέος	θαραλλέος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	_
+10	νομίζω	νομίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__58
+# text = Έσ̆ει έναν μιτσήν που εκάμναμεν παρέαν στο δημοτικόν , που ο λόγος που εκάμναμεν παρέαν ήταν που τους λλίους που του αρέσκασιν τα Pokemon τζ̆αι ο Super Mario .
+1	Έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	μιτσήν	μιτσής	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+4	που	που	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	_
+5	εκάμναμεν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+6	παρέαν	παρέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7-8	στο	_	_	_	_	_	_	_	_
+7	σ	σε	ADP	_	_	9	case	_	_
+8	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	δημοτικόν	δημοτικόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	που	που	SCONJ	_	_	20	mark	_	_
+12	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	λόγος	λόγος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj:outer	_	_
+14	που	που	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	15	obl	_	_
+15	εκάμναμεν	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+16	παρέαν	παρέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+17	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
+18	που	που	ADP	_	_	20	case	_	_
+19	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	λλίους	λλίος	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	3	advcl	_	_
+21	που	που	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	23	obl	_	_
+22	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
+23	αρέσκασιν	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+24	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	25	det	_	_
+25	Pokemon	Pokemon	X	_	Foreign=Yes	23	nsubj	_	_
+26	τζ̆αι	τζ̆αι	CCONJ	_	_	28	cc	_	_
+27	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	Super	Super	X	_	Foreign=Yes	25	conj	_	_
+29	Mario	Mario	X	_	Foreign=Yes	28	flat	_	_
+30	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__59
+# text = Άρεσκεν μου που εκαθούμαστεν γυρόν που έναν τραπέζιν τζ̆αι ελαλούσαμεν διάφορες ιστορίες .
+1	Άρεσκεν	αρέσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+3	που	που	SCONJ	_	_	4	mark	_	_
+4	εκαθούμαστεν	κάθουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	1	csubj	_	_
+5	γυρόν	γυρόν	ADV	_	_	4	advmod	_	_
+6	που	που	ADP	_	_	8	case	_	_
+7	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	τραπέζιν	τραπέζιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+9	τζ̆αι	τζ̆αι	CCONJ	_	Polarity=Neg	10	cc	_	_
+10	ελαλούσαμεν	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+11	διάφορες	διάφορος	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	_
+12	ιστορίες	ιστορία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__60
+# text = Τωρά τελευταία έχουμεν λλιόττερην μετανάστευσην που χώρες όπως Ρωσσία ας πούμεν τζ̆αι έχουμεν αρκετήν μετανάστευσην που άλλες χώρες της Μέσης Ανατολής , ε χώρες που συνήθως έχουν πόλεμον ή κάτι σχετικόν .
+1	Τωρά	τωρά	ADV	_	ExtPos=ADV	3	advmod	_	_
+2	τελευταία	τελευταίος	ADV	_	_	1	fixed	_	_
+3	έχουμεν	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	λλιόττερην	λλίος	DET	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	μετανάστευσην	μετανάστευση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	που	που	ADP	_	_	7	case	_	_
+7	χώρες	χώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+8	όπως	όπως	ADV	_	PronType=Rel	9	advmod	_	_
+9	Ρωσσία	Ρωσσία	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	_
+10	ας	ας	AUX	_	_	11	aux	_	_
+11	πούμεν	λαλώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+12	τζ̆αι	τζ̆αι	CCONJ	_	_	13	cc	_	_
+13	έχουμεν	έχουμεν	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+14	αρκετήν	αρκετός	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	μετανάστευσην	μετανάστευση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+16	που	που	ADP	_	_	18	case	_	_
+17	άλλες	άλλος	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
+18	χώρες	χώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	nmod	_	_
+19	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	Μέσης	μέσος	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	21	amod	_	_
+21	Ανατολής	Ανατολή	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	ε	ε	INTJ	_	_	24	discourse	_	_
+24	χώρες	χώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	18	conj	_	_
+25	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	27	nsubj	_	_
+26	συνήθως	συνήθως	ADV	_	_	27	advmod	_	_
+27	έχουν	έχω	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+28	πόλεμον	πόλεμος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
+29	ή	ή	CCONJ	_	_	30	cc	_	_
+30	κάτι	κάτι	DET	_	PronType=Ind	28	conj	_	_
+31	σχετικόν	σχετικός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	30	amod	_	_
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__61
+# text = Δυστυχώς εν ακούω ούτε κυπριακήν ούτε ελληνικήν μουσικήν για να μπορώ να δώκω κάποιον παράδειγμαν .
+1	Δυστυχώς	δυστυχώς	ADV	_	_	3	advmod	_	_
+2	εν	εν	PART	_	Polarity=Neg	3	advmod	_	_
+3	ακούω	ακούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ούτε	ούτε	CCONJ	_	_	5	cc	_	_
+5	κυπριακήν	κυπριακός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
+6	ούτε	ούτε	CCONJ	_	_	7	cc	_	_
+7	ελληνικήν	ελληνικός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
+8	μουσικήν	μουσική	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+9	για	για	ADP	_	ExtPos=SCONJ	11	mark	_	_
+10	να	να	SCONJ	_	_	9	fixed	_	_
+11	μπορώ	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+12	να	να	SCONJ	_	_	13	mark	_	_
+13	δώκω	διώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	11	xcomp	_	_
+14	κάποιον	κάποιος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	15	det	_	_
+15	παράδειγμαν	παράδειγμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__62
+# text = Τα πιο σημαντικά είδη δημόσιων υπηρεσιών πιστεύκω ότι εν’ τζ̆είνα που ασχολούνται με την πληροφορικήν επειδή η Κύπρος εν’ λλίον πίσω τζ̆αι χρειάζεται λλίον εκσυγχρονισμόν .
+1	Τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+2	πιο	πιο	ADV	_	Degree=Cmp	3	advmod	_	_
+3	σημαντικά	σημαντικός	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	_	_
+4	είδη	είδος	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	dislocated	_	_
+5	δημόσιων	δημόσιος	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	6	amod	_	_
+6	υπηρεσιών	υπηρεσία	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	πιστεύκω	πιστεύκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	ότι	ότι	SCONJ	_	_	10	mark	_	_
+9	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	τζ̆είνα	τζ̌είνος	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	7	ccomp	_	_
+11	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	12	nsubj	_	_
+12	ασχολούνται	ασχολούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl:relcl	_	_
+13	με	με	ADP	_	_	15	case	_	_
+14	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	πληροφορικήν	πληροφορική	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+16	επειδή	επειδή	SCONJ	_	_	21	mark	_	_
+17	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Κύπρος	Κύπρος	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+19	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	_
+20	λλίον	λλίον	ADV	_	_	21	advmod	_	_
+21	πίσω	πίσω	ADV	_	_	7	advcl	_	_
+22	τζ̆αι	τζ̆αι	CCONJ	_	_	23	cc	_	_
+23	χρειάζεται	χρειάζομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	21	conj	_	_
+24	λλίον	λλίος	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	25	amod	_	_
+25	εκσυγχρονισμόν	εκσυγχρονισμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = C__63
+# text = Πριν κάμω οικογένειαν , εσπούδασα , εδούλεψα καλά , έπιασα καμπόσην εμπειρίαν , έμαθα διάφορες τέχνες .
+1	Πριν	πριν	SCONJ	_	_	2	mark	_	_
+2	κάμω	κάμνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+3	οικογένειαν	οικογένεια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	εσπούδασα	σπουδάζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	εδούλεψα	δουλεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	καλά	καλά	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	έπιασα	πιάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+11	καμπόσην	καμπόσος	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	εμπειρίαν	εμπειρία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	έμαθα	μαθαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+15	διάφορες	διάφορος	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	16	amod	_	_
+16	τέχνες	τέχνη	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = C__64
+# text = Ε , οι προκλήσεις που αντιμετωπίζουν σήμμερα οι επιχειρηματίες εν’ η έλλειψη ανθρώπινου δυναμικού τζ̆αι το ακριβόν ρεύμαν κυρίως .
+1	Ε	ε	INTJ	_	_	12	discourse	_	_
+2	,	,	PUNCT	_	_	12	punct	_	_
+3	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	προκλήσεις	πρόκληση	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	6	obj	_	_
+6	αντιμετωπίζουν	αντιμετωπίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+7	σήμμερα	σήμμερα	ADV	_	_	6	advmod	_	_
+8	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	επιχειρηματίες	επιχειρηματίας	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+10	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	έλλειψη	έλλειψη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+13	ανθρώπινου	ανθρώπινος	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	14	amod	_	_
+14	δυναμικού	δυναμικόν	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	τζ̆αι	τζ̆αι	CCONJ	_	_	18	cc	_	_
+16	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
+17	ακριβόν	ακριβός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	18	amod	_	_
+18	ρεύμαν	ρεύμαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+19	κυρίως	κυρίως	ADV	_	_	12	advmod	_	_
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = C__65
+# text = Έκαμνα μαθήματα φωτογραφικής τέχνης παλιά , τζ̆αι με την τάξην μου εγυρίζαμεν την Λευκωσίαν τζ̆’ εφκάλλαμεν φωτογραφίες .
+1	Έκαμνα	κάμνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μαθήματα	μάθημαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+3	φωτογραφικής	φωτογραφικός	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+4	τέχνης	τέχνη	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	παλιά	παλιά	ADV	_	_	1	advmod	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+8	με	με	ADP	_	_	10	case	_	_
+9	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	τάξην	τάξη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+11	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod	_	_
+12	εγυρίζαμεν	γυρίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Λευκωσίαν	Λευκωσία	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+15	τζ̆’	τζ̆αι	CCONJ	_	_	16	cc	_	_
+16	εφκάλλαμεν	φκάλλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+17	φωτογραφίες	φωτογραφία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__66
+# text = Εν έχω κάποιαν μεγάλην ανησυχίαν για την χρήσην κινητών τηλεφώνων εχτός του ότι αρκετοί ανθρώποι μπορεί μετά να νομίζουν ότι εξαρτιούνται που το τηλέφωνον τους .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	έχω	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	κάποιαν	κάποιος	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	μεγάλην	μεγάλος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	ανησυχίαν	ανησυχία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+6	για	για	ADP	_	_	8	case	_	_
+7	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	χρήσην	χρήση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+9	κινητών	κινητός	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	10	amod	_	_
+10	τηλεφώνων	τηλέφωνον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+11	εχτός	εχτός	ADV	_	_	2	advmod	_	_
+12	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+13	ότι	ότι	SCONJ	_	_	16	mark	_	_
+14	αρκετοί	αρκετός	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	ανθρώποι	άνθρωπος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	dislocated	_	_
+16	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	obl	_	_
+17	μετά	μετά	ADV	_	_	16	advmod	_	_
+18	να	να	SCONJ	_	_	19	mark	_	_
+19	νομίζουν	νομίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	csubj	_	_
+20	ότι	ότι	SCONJ	_	_	21	mark	_	_
+21	εξαρτιούνται	εξαρτούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	ccomp	_	_
+22	που	που	ADP	_	_	24	case	_	_
+23	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	_
+24	τηλέφωνον	τηλέφωνον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+25	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	nmod	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__67
+# text = Εν θθυμούμαι να μου έτυχεν κάποιαν νύχταν να μεν έσ̆ει ρεύμαν ή τηλεόρασην ή τουλάχιστον να συμβαίννει τούντο πράμαν σε ώραν που είμαστεν όξυπνοι .
+1	Εν	εν	PART	_	Polarity=Neg	2	advmod	_	_
+2	θθυμούμαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	να	να	SCONJ	_	_	5	mark	_	_
+4	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	έτυχεν	τυχαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+6	κάποιαν	κάποιος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	νύχταν	νύχτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+8	να	να	SCONJ	_	_	10	mark	_	_
+9	μεν	μεν	PART	_	_	10	advmod	_	_
+10	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	csubj	_	_
+11	ρεύμαν	ρεύμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	ή	ή	CCONJ	_	_	13	cc	_	_
+13	τηλεόρασην	τηλεόραση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	_
+14	ή	ή	CCONJ	_	_	17	cc	_	_
+15	τουλάχιστον	τουλάχιστον	ADV	_	_	17	advmod	_	_
+16	να	να	SCONJ	_	_	17	mark	_	_
+17	συμβαίννει	συμβαίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+18-19	τούντο	_	_	_	_	_	_	_	_
+18	τούτον	τούτος	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	_
+19	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+20	πράμαν	πράμαν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+21	σε	σε	ADP	_	_	22	case	_	_
+22	ώραν	ώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+23	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	25	obl	_	_
+24	είμαστεν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+25	όξυπνοι	όξυπνος	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	22	acl:relcl	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__68
+# text = Εφακκούσα γυρόν της γειτονιάς , ε τζ̆αι επηαίνναμεν τζ̆αι σε κανέναν ππάρτιν , επίνναμεν χυμόν , εβάλλαμεν μουσικήν τζ̆αι ετρώαμεν τσ̆ιπς .
+1	Εφακκούσα	φακκώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ParsemeMWE=1:VID
+2	γυρόν	γυρόν	ADV	_	_	1	advmod	_	ParsemeMWE=1
+3	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	γειτονιάς	γειτονιά	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	ε	ε	ADP	_	_	8	discourse	_	_
+7	τζ̆αι	τζ̆αι	CCONJ	_	_	8	cc	_	_
+8	επηαίνναμεν	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	τζ̆αι	τζ̆αι	CCONJ	_	_	12	cc	_	_
+10	σε	σε	ADP	_	_	12	case	_	_
+11	κανέναν	κανένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	ππάρτιν	ππάρτιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	επίνναμεν	πίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+15	χυμόν	χυμόν	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+16	,	,	PUNCT	_	_	1	punct	_	_
+17	εβάλλαμεν	εβαλλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+18	μουσικήν	μουσική	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+19	τζ̆αι	τζ̆αι	CCONJ	_	_	20	cc	_	_
+20	ετρώαμεν	τρώω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+21	τσ̆ιπς	τσ̆ιπς	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__69
+# text = Τωρά σπάνια πάω σούππερμαρκετ αλλά άμαν μεινίσκω μόνη μου πάω σούππερμαρκετ κάθε εφτομάδαν .
+1	Τωρά	τωρά	ADV	_	_	3	advmod	_	_
+2	σπάνια	σπάνια	ADV	_	_	3	advmod	_	_
+3	πάω	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	σούππερμαρκετ	σούππερμαρκετ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+5	αλλά	αλλά	CCONJ	_	_	10	cc	_	_
+6	άμαν	άμαν	ADV	_	_	7	mark	_	_
+7	μεινίσκω	μεινίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+8	μόνη	μόνος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	7	xcomp	_	_
+9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
+10	πάω	πηαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	σούππερμαρκετ	σούππερμαρκετ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+12	κάθε	κάθε	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
+13	εφτομάδαν	εφτομάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__70
+# text = Οπότε , εν έχω έννοιαν κάθε μήναν να βουρήσω να πιερώσω .
+1	Οπότε	οπότε	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	εν	εν	PART	_	Polarity=Neg	4	advmod	_	_
+4	έχω	έχω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	έννοιαν	έννοια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	κάθε	κάθε	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+7	μήναν	μήνας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+8	να	να	SCONJ	_	_	9	mark	_	_
+9	βουρήσω	βουρώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+10	να	να	SCONJ	_	_	11	mark	_	_
+11	πιερώσω	πιερώννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	9	xcomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = C__71
+# text = Την νύχταν εθώρουν πως εγίνηκα ο ήρωας του « Μέιτριξ 3 » σε συνδυασμόν με τον « Ράμπο 1 » .
+1	Την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	νύχταν	νύχτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+3	εθώρουν	θωρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	πως	πως	SCONJ	_	_	5	mark	_	_
+5	εγίνηκα	γίνουμαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	3	ccomp	_	_
+6	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ήρωας	ήρωας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	_
+8	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+9	«	«	PUNCT	_	_	10	punct	_	_
+10	Μέιτριξ	Μέιτριξ	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+11	3	3	NUM	_	NumType=Card	10	nummod	_	_
+12	»	»	PUNCT	_	_	10	punct	_	_
+13	σε	σε	ADP	_	_	14	case	_	_
+14	συνδυασμόν	συνδυασμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+15	με	με	ADP	_	_	18	case	_	_
+16	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	«	«	PUNCT	_	_	18	punct	_	_
+18	Ράμπο	Ράμπο	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	_
+19	1	1	NUM	_	NumType=Card	18	nummod	_	_
+20	»	»	PUNCT	_	_	18	punct	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__72
+# text = Τζ̆’ ερκούμαστεν στην μιαν που τες θκυο μέρες πόννά μεν ξιάσω ποττέ μου , που την Σ̆ιονίστραν .
+1	Τζ̆’	τζ̆αι	CCONJ	_	_	2	cc	_	_
+2	ερκούμαστεν	έρκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3-4	στην	_	_	_	_	_	_	_	_
+3	σ	σε	ADP	_	_	5	case	_	_
+4	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	μιαν	ένας	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	2	obl	_	_
+6	που	που	ADP	_	_	9	case	_	_
+7	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	θκυο	θκυο	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	9	nummod	_	_
+9	μέρες	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+10-11	πόννά	_	_	_	_	_	_	_	_
+10	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	13	obj	_	_
+11	εννά	εννά	AUX	_	Tense=Fut	13	aux	_	_
+12	μεν	μεν	PART	_	Polarity=Neg	13	advmod	_	_
+13	ξιάσω	ξιάννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+14	ποττέ	ποττέ	ADV	_	PronType=Neg	13	advmod	_	_
+15	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	obl	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	που	που	ADP	_	_	19	case	_	_
+18	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Σ̆ιονίστραν	Σ̆ιονίστρα	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__73
+# text = Τζ̆αι τέταρτον , αλλά όι έσχατον , εξιλαμπίκκαρα λλίες ώρες που το ποτόν , τζ̆’ ήμουν έτοιμος να πάω που την αρκήν .
+1	Τζ̆αι	τζ̆αι	CCONJ	_	_	2	cc	_	_
+2	τέταρτον	τέταρτον	ADV	_	NumType=Ord	8	advmod	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	αλλά	αλλά	CCONJ	_	_	6	cc	_	_
+5	όι	όι	PART	_	_	6	advmod	_	_
+6	έσχατον	έσχατον	ADV	_	_	2	conj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	εξιλαμπίκκαρα	ξιλαμπικκάρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	λλίες	λλίος	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	10	det	_	_
+10	ώρες	ώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	_
+11	που	που	ADP	_	_	13	case	_	_
+12	το	o	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Art	13	det	_	_
+13	ποτόν	ποτόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	τζ̆’	τζ̆αι	CCONJ	_	_	17	cc	_	_
+16	ήμουν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	cop	_	_
+17	έτοιμος	έτοιμος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+18	να	να	SCONJ	_	_	19	mark	_	_
+19	πάω	πηαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	17	xcomp	_	_
+20	που	που	ADP	_	_	22	case	_	_
+21	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	αρκήν	αρκή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	_
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = C__74
+# text = Αντί να με αήκουν ήσυχον , εχώσαν με στην παρέλλασην για την επέτειον της Ανεξαρτησίας .
+1	Αντί	αντί	ADP	_	_	4	mark	_	_
+2	να	να	SCONJ	_	_	4	mark	_	_
+3	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	αήκουν	αήννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+5	ήσυχον	ήσυχος	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	εχώσαν	χώννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+9-10	στην	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	_	_	11	case	_	_
+10	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	παρέλλασην	παρέλλαση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+12	για	για	ADP	_	_	14	case	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	επέτειον	επέτειος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	_
+15	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Ανεξαρτησίας	Ανεξαρτησία	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = C__75
+# text = Άκουσα έναν , « ρε ππουσ̆τόγερε » , τζ̆’ είδα τον που το καθρεφτούιν να χειρονομά τζ̆αι να φκάλλει αφρούς που το στόμαν .
+1	Άκουσα	ακούω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	«	«	PUNCT	_	_	6	punct	_	_
+5	ρε	ρε	INTJ	_	_	6	discourse	_	_
+6	ππουσ̆τόγερε	ππουσ̆τόγερος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	obj	_	_
+7	»	»	PUNCT	_	_	6	punct	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	τζ̆’	τζ̆αι	CCONJ	_	_	10	cc	_	_
+10	είδα	θωρώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+11	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	obj	_	_
+12	που	που	ADP	_	_	14	case	_	_
+13	το	ο	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Art	14	det	_	_
+14	καθρεφτούιν	καθρέφτης	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	10	obl	_	_
+15	να	να	SCONJ	_	_	16	mark	_	_
+16	χειρονομά	χειρονομώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	xcomp	_	_
+17	τζ̆αι	τζ̆αι	CCONJ	_	_	19	cc	_	_
+18	να	να	SCONJ	_	_	19	mark	_	_
+19	φκάλλει	φκάλλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+20	αφρούς	αφρός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	obj	_	_
+21	που	που	ADP	_	_	23	case	_	_
+22	το	ο	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Art	23	det	_	_
+23	στόμαν	στόμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	_
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__76
+# text = Έναν άλλου είδους γαμήσιν , εννά εμπορούσες να πεις .
+1	Έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+2	άλλου	άλλος	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	_
+3	είδους	είδος	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+4	γαμήσιν	γαμήσιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	dislocated	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	εννά	εννά	AUX	_	Tense=Fut	7	aux	_	_
+7	εμπορούσες	μπόρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	να	να	SCONJ	_	_	9	mark	_	_
+9	πεις	λαλώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	7	xcomp	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = C__77
+# text = Έναν κουφάριν , άταφον που για μέρες τζ̆αι χρόνια εννά εθθύμιζεν την απώλειαν , τες πλαστικές χειρολαβές χωρίς σ̆έρκα .
+1	Έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	κουφάριν	κουφάριν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	άταφον	άταφον	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+5	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	nsubj	_	_
+6	για	για	ADP	_	_	7	case	_	_
+7	μέρες	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+8	τζ̆αι	τζ̆αι	PART	_	_	9	cc	_	_
+9	χρόνια	χρόνια	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	conj	_	_
+10	εννά	εννά	AUX	_	Tense=Fut	11	aux	_	_
+11	εθθύμιζεν	αθθυμίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+12	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	απώλειαν	απώλεια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	πλαστικές	πλαστικός	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	17	amod	_	_
+17	χειρολαβές	χειρολαβή	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	conj	_	_
+18	χωρίς	χωρίς	ADP	_	_	19	case	_	_
+19	σ̆έρκα	σ̆έριν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__78
+# text = Πάλε έβαλες τα πλάσματα σου να φορτωθούσιν την ζωήν τους πά’ στην ράσ̆ην τους τζ̆αι να πιάσουσιν τον δρόμον της προσφυγιάς , την στράταν τζ̆είνην πόν έσ̆ει στραφείν .
+1	Πάλε	πάλε	ADV	_	_	2	advmod	_	_
+2	έβαλες	βάλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	πλάσματα	πλάσμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod	_	_
+6	να	να	SCONJ	_	_	7	mark	_	_
+7	φορτωθούσιν	φορτώνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	2	xcomp	_	_
+8	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ζωήν	ζωή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+10	τους	εγώ	PRON	_	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod	_	_
+11	πά’	πάνω	ADV	_	_	7	advmod	_	_
+12-13	στην	_	_	_	_	_	_	_	_
+12	σ	σε	ADP	_	_	14	case	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	ράσ̆ην	ράσ̆η	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	τους	εγώ	PRON	_	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod	_	_
+16	τζ̆αι	τζ̆αι	CCONJ	_	_	18	cc	_	_
+17	να	να	SCONJ	_	_	18	mark	_	_
+18	πιάσουσιν	πιάννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	7	conj	_	_
+19	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	δρόμον	δρόμος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+21	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	προσφυγιάς	προσφυγιά	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	στράταν	στράτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	conj	_	_
+26	τζ̆είνην	τζ̆είνος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
+27-28	πόν	_	_	_	_	_	_	_	_
+27	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	_
+28	εν	εν	PART	_	Polarity=Neg	29	advmod	_	_
+29	έσ̆ει	έχω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	_
+30	στραφείν	στρέφω	X	_	_	29	obj	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__79
+# text = Αρέσκαν του τα σχέδια που ανακάλυψεν ότι εστολίζασιν το κορμίν της , κρυμμένα κάτω που τα ρούχα της , πά’ στην τζ̆οιλιάν , πά’ στα στήθη , πά’ σ τες ζάμπες .
+1	Αρέσκαν	αρέσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+3	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	σχέδια	σχέδιον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+5	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	6	obj	_	_
+6	ανακάλυψεν	ανακαλύπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+7	ότι	ότι	SCONJ	_	_	8	mark	_	_
+8	εστολίζασιν	στολίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+9	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	κορμίν	κορμίν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+11	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	κρυμμένα	κρυμμένος	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	8	advcl	_	_
+14	κάτω	κάτω	ADV	_	_	13	advmod	_	_
+15	που	που	ADP	_	_	17	case	_	_
+16	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	det	_	_
+17	ρούχα	ρούχον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	_
+18	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	πά’	πάνω	ADV	_	_	14	conj	_	_
+21-22	στην	_	_	_	_	_	_	_	_
+21	σ	σε	ADP	_	_	23	case	_	_
+22	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	τζ̆οιλιάν	τζ̆οιλιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	πά’	πάνω	ADV	_	_	14	conj	_	_
+26-27	στα	_	_	_	_	_	_	_	_
+26	σ	σε	ADP	_	_	28	case	_	_
+27	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	28	det	_	_
+28	στήθη	στήθος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	25	obl	_	_
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	πά’	πάνω	ADV	_	_	14	conj	_	_
+31	σ	σε	ADP	_	_	33	case	_	_
+32	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
+33	ζάμπες	ζάμπα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	30	obl	_	_
+34	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__80
+# text = Ούλλες μας εγεννηθήκαμεν με τρύπες πά’ στες τζ̆οιλιές , ούλλες μας , παλιές , τζ̆αινούρκες , μεταχειρισμένες , ούλλες τρυπημένες μιαν ζωήν .
+1	Ούλλες	ούλλος	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	3	nsubj	_	_
+2	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+3	εγεννηθήκαμεν	γεννώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	με	με	ADP	_	_	5	case	_	_
+5	τρύπες	τρύπα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
+6	πά’	πάνω	ADV	_	_	5	advmod	_	_
+7-8	στες	_	_	_	_	_	_	_	_
+7	σε	σε	ADP	_	_	9	case	_	_
+8	τες	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	τζ̆οιλιές	τζ̆οιλιά	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	ούλλες	ούλλος	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	3	parataxis	_	_
+12	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	παλιές	παλιός	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	11	appos	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	τζ̆αινούρκες	τζ̆αινούρκος	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	14	conj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	μεταχειρισμένες	μεταχειρισμένος	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part	14	conj	_	_
+19	,	,	PUNCT	_	_	3	punct	_	_
+20	ούλλες	ούλλος	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	21	nsubj:pass	_	_
+21	τρυπημένες	τρυπημένος	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	3	parataxis	_	_
+22	μιαν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	ζωήν	ζωή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__81
+# text = Εξιπλύθθηκεν , εντύθηκεν τζ̆αι έτσι βρεμένος όπως ήταν εξεκίνησεν για να ’βρει την γεναίκαν του .
+1	Εξιπλύθθηκεν	ξιπλυννίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	εντύθηκεν	ντύννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	_
+4	τζ̆αι	τζ̆αι	CCONJ	_	_	9	cc	_	_
+5	έτσι	έτσι	ADV	_	_	6	advmod	_	_
+6	βρεμένος	βρεμένος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	9	advcl	_	_
+7	όπως	όπως	ADV	_	PronType=Rel	6	advmod	_	_
+8	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+9	εξεκίνησεν	ξεκινώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+10	για	για	ADP	_	ExtPos=SCONJ	12	mark	_	_
+11	να	να	SCONJ	_	_	10	fixed	_	_
+12	’βρει	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	advcl	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	γεναίκαν	γεναίκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+15	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__82
+# text = Εν τους εθώρουν σαν μωρά , αλλά σαν τερατούθκια , που μ’ επαίρνασιν τζ̆αι μ’ εφέρνασιν κατά που ’θέλαν .
+1	Εν	εν	PART	_	Polarity=Neg	3	advmod	_	_
+2	τους	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	εθώρουν	θωρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	σαν	σαν	ADV	_	_	5	case	_	_
+5	μωρά	μωρόν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	αλλά	αλλά	CCONJ	_	_	9	cc	_	_
+8	σαν	σαν	ADV	_	_	9	case	_	_
+9	τερατούθκια	τέρας	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur	5	conj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	13	nsubj	_	_
+12	μ’	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+13	επαίρνασιν	παίρνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+14	τζ̆αι	τζ̆αι	CCONJ	_	_	16	cc	_	_
+15	μ’	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	_
+16	εφέρνασιν	φέρνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+17	κατά	κατά	ADP	_	ExtPos=ADV	19	advmod	_	_
+18	που	όπου	ADV	_	PronType=Ind	17	fixed	_	_
+19	’θέλαν	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__83
+# text = Σαν τους εθώρουν που το καθρεφτούιν τζ̆αι τους θκυο πίσω , σχεδόν ολόιδιους , ήρτεν μου μια ιδέα .
+1	Σαν	σαν	SCONJ	_	_	3	mark	_	_
+2	τους	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+3	εθώρουν	θωρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	_
+4	που	που	ADP	_	_	6	case	_	_
+5	το	o	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Art	6	det	_	_
+6	καθρεφτούιν	καθρέφτης	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	3	obl	_	_
+7	τζ̆αι	τζ̆αι	CCONJ	_	_	9	cc	_	_
+8	τους	ο	DET	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Art	9	det	_	_
+9	θκυο	θκυο	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	3	obj	_	_
+10	πίσω	πίσω	ADV	_	_	9	advmod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	σχεδόν	σχεδόν	ADV	_	_	13	advmod	_	_
+13	ολόιδιους	ολόιδιος	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	ήρτεν	έρκουμαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	obl	_	_
+17	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	ιδέα	ιδέα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+19	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = C__84
+# text = Αλώπως ήβρεν καμιάν σαύραν τζ̆αι μάσ̆εται να την βασανίσει .
+1	Αλώπως	αλώπως	ADV	_	_	2	advmod	_	_
+2	ήβρεν	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	καμιάν	κανένας	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	σαύραν	σαύρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	μάσ̆εται	μάσ̆ομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	_
+7	να	να	SCONJ	_	_	9	mark	_	_
+8	την	εγώ	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	βασανίσει	βασανιώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__85
+# text = Αν έβρω τζ̆αι έναν τρόπον να ξαπλώννω σαν γράφω εννάν’ τέλεια σαμπώς τζ̆αι μιλώ του ψυχολόγου μου .
+1	Αν	αν	SCONJ	_	_	2	mark	_	_
+2	έβρω	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	advcl	_	_
+3	τζ̆αι	τζ̆αι	CCONJ	_	_	5	cc	_	_
+4	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	τρόπον	τρόπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+6	να	να	SCONJ	_	_	7	mark	_	_
+7	ξαπλώννω	ξαπλώννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
+8	σαν	σαν	ADV	_	_	9	advmod	_	_
+9	γράφω	γράφω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	7	advcl	_	_
+10-11	εννάν’	_	_	_	_	_	_	_	_
+10	εννά	εννά	AUX	_	Tense=Fut	12	aux	_	_
+11	εν’	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	τέλεια	τέλεια	ADV	_	_	0	root	_	_
+13	σαμπώς	σαμπώς	ADV	_	_	15	mark	_	_
+14	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+15	μιλώ	μιλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+16	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	ψυχολόγου	ψυχολόγος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	obj	_	_
+18	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod	_	_
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = C__86
+# text = Ν’ αρκέψει να βρέσ̆ει ο ουρανός του αυτοκινήτου .
+1	Ν’	να	AUX	_	Tense=Fut	2	aux	_	_
+2	αρκέψει	αρκεύκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	4	mark	_	_
+4	βρέσ̆ει	βρέσ̆ω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+5	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ουρανός	ουρανός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+7	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	αυτοκινήτου	αυτοκίνητο	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__87
+# text = Γιατί Αντρο θεωρείς το σωστόν που ήρτεν μαζίν μου για μια νύχτα τζ̆αι μετά εξαφανιστηκεν ;
+1	Γιατί	γιατί	ADV	_	PronType=Int	3	advmod	_	_
+2	Αντρο	Άντρος	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	_
+3	θεωρείς	θεωρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	3	expl	_	_
+5	σωστόν	σωστός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	xcomp	_	_
+6	που	που	SCONJ	_	_	7	mark	_	_
+7	ήρτεν	έρκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	μαζίν	μαζί	ADV	_	_	7	advmod	_	_
+9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
+10	για	για	ADP	_	_	12	case	_	_
+11	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	νύχτα	νύχτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+13	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+14	μετά	μετά	ADV	_	_	15	advmod	_	_
+15	εξαφανιστηκεν	εξαφανίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	conj	_	_
+16	;	;	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__88
+# text = Εγώ μπορεί να ’φάνηκα τυχερή τζ̆’ ήβρα έναν υπέροχον άνθρωπον όπως εσέναν που είσαι πιστός τζ̆αι δεν ξενοκοιτάζεις , αλλά εννά αφήκω την καημένην την Αλίκην να υποφέρει .
+1	Εγώ	εγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	dislocated	_	_
+2	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	4	mark	_	_
+4	’φάνηκα	φαίνουμαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	2	csubj	_	_
+5	τυχερή	τυχερός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	xcomp	_	_
+6	τζ̆’	τζ̆αι	CCONJ	_	_	7	cc	_	_
+7	ήβρα	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	υπέροχον	υπέροχος	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+10	άνθρωπον	άνθρωπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+11	όπως	όπως	ADV	_	PronType=Rel	10	advmod	_	_
+12	εσέναν	εγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	11	obl	_	_
+13	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
+14	είσαι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	πιστός	πιστός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	acl:relcl	_	_
+16	τζ̆αι	τζ̆αι	CCONJ	_	_	18	cc	_	_
+17	δεν	δεν	PART	_	Polarity=Neg	18	advmod	_	_
+18	ξενοκοιτάζεις	ξενοκοιτάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+19	,	,	PUNCT	_	_	2	punct	_	_
+20	αλλά	αλλά	CCONJ	_	_	22	cc	_	_
+21	εννά	εννά	AUX	_	Tense=Fut	22	aux	_	_
+22	αφήκω	αφήκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	conj	_	_
+23	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+24	καημένην	καημένος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	_
+25	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	Αλίκην	Αλίκη	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+27	να	να	SCONJ	_	_	28	mark	_	_
+28	υποφέρει	υποφέρω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	xcomp	_	_
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__89
+# text = Εδώκαμεν σου ριάλια να γοράσεις βιβλία τζ̆’ εγοράσες βιολίν γιατί ήρτεν σου ξαφνικά να μάθεις βιολίν .
+1	Εδώκαμεν	διώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+3	ριάλια	ριάλλιν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+4	να	να	SCONJ	_	_	5	mark	_	_
+5	γοράσεις	αγοράζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	βιβλία	βιβλίον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+7	τζ̆’	τζ̆αι	CCONJ	_	_	8	cc	_	_
+8	εγοράσες	αγοράζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	βιολίν	βιολίν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	γιατί	γιατί	SCONJ	_	_	11	mark	_	_
+11	ήρτεν	έρκουμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+13	ξαφνικά	ξαφνικά	ADV	_	_	11	advmod	_	_
+14	να	να	SCONJ	_	_	15	mark	_	_
+15	μάθεις	μαθαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	11	xcomp	_	_
+16	βιολίν	βιολίν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__90
+# text = Τζ̆’ ορκίζουμαι σου πως εννά τα ξιχάσω ούλλα , όσα μου έκαμες εμέναν τζ̆’ εννά σταθώ στο πλευρόν σου , ως το τέλος .
+1	Τζ̆’	τζ̆αι	CCONJ	_	_	2	cc	_	_
+2	ορκίζουμαι	ορκίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+4	πως	πως	SCONJ	_	_	7	mark	_	_
+5	εννά	εννά	AUX	_	Tense=Fut	7	aux	_	_
+6	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	7	expl	_	_
+7	ξιχάσω	ξιχάννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	ούλλα	ούλλος	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	7	obj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	όσα	όσος	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	12	obj	_	_
+11	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	expl	_	_
+12	έκαμες	κάμνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+13	εμέναν	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+14	τζ̆’	τζ̆αι	CCONJ	_	_	16	cc	_	_
+15	εννά	εννά	AUX	_	Tense=Fut	16	aux	_	_
+16	σταθώ	στέκουμαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	12	conj	_	_
+17-18	στο	_	_	_	_	_	_	_	_
+17	σ	σε	ADP	_	_	19	case	_	_
+18	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
+19	πλευρόν	πλευρόν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+20	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	19	nmod	_	_
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	ως	ως	ADP	_	_	24	case	_	_
+23	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	_
+24	τέλος	τέλος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__91
+# text = Εδώ και λίγες μέρες το ψάχνουμεν και βρήκαμεν στο ίνττερνετ με την Καλομοίραν ότι στην Επαρχιακήν Διοίκησην , επανεκδίδετε Πιστοποιητικά Γεννήσεως .
+1	Εδώ	εδώ	ADV	_	ExtPos=ADP|PronType=Dem	4	case	_	_
+2	και	και	CCONJ	_	_	1	fixed	_	_
+3	λίγες	λίγος	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	μέρες	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
+5	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	ψάχνουμεν	ψάχνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	και	και	CCONJ	_	_	8	cc	_	_
+8	βρήκαμεν	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+9-10	στο	_	_	_	_	_	_	_	_
+9	σ	σε	ADP	_	_	11	case	_	_
+10	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	ίνττερνετ	ίνττερνετ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+12	με	με	ADP	_	_	14	case	_	_
+13	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Καλομοίραν	Καλομοίρα	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+15	ότι	ότι	SCONJ	_	_	21	mark	_	_
+16-17	στην	_	_	_	_	_	_	_	_
+16	σ	σε	ADP	_	_	19	case	_	_
+17	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	Επαρχιακήν	επαρχιακός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
+19	Διοίκησην	διοίκηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	επανεκδίδετε	επανεκδίδω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+22	Πιστοποιητικά	πιστοποιητικό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	21	obj	_	_
+23	Γεννήσεως	γέννηση	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = C__92
+# text = Ξέρω , ακούεται φαλλοκρατικόν τζ̆αι σεξιστικόν τούτον που λαλώ , αλλά ένας που τους ρόλους του άντρα είναι να προνοούν για το σπίτιν τους , για την οικογένειαν τους .
+1	Ξέρω	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ακούεται	ακούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
+4	φαλλοκρατικόν	φαλλοκρατικός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	xcomp	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	Polarity=Neg	6	cc	_	_
+6	σεξιστικόν	σεξιστικός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	_
+7	τούτον	τούτος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
+8	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	_
+9	λαλώ	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+10	,	,	PUNCT	_	_	20	punct	_	_
+11	αλλά	αλλά	CCONJ	_	_	20	cc	_	_
+12	ένας	ένας	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	20	nsubj:outer	_	_
+13	που	που	ADP	_	_	15	case	_	_
+14	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	ρόλους	ρόλος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
+16	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	άντρα	άντρας	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	είναι	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	να	να	SCONJ	_	_	20	mark	_	_
+20	προνοούν	προνοώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+21	για	για	ADP	_	_	23	case	_	_
+22	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	23	det	_	_
+23	σπίτιν	σπίτιν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
+24	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod	_	_
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	για	για	ADP	_	_	28	case	_	_
+27	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	οικογένειαν	οικογένεια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	conj	_	_
+29	τους	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	nmod	_	_
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__93
+# text = Ηξερεν το μωρόν ότι τούτος ήταν ανακατωμένος μ’ έτσι πράματα ;
+1	Ηξερεν	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	μωρόν	μωρόν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	ότι	ότι	SCONJ	_	_	7	mark	_	_
+5	τούτος	τούτος	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	ήταν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	ανακατωμένος	ανακατωμένος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	_
+8	μ’	με	ADP	_	_	10	case	_	_
+9	έτσι	έτσι	ADV	_	_	10	advmod	_	_
+10	πράματα	πράμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	_
+11	;	;	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__94
+# text = Θθυμάσαι Αντώνη μου όταν ήσουν 5 χρονών και ελάλες έναν ψέμαν της μάμμας και εμάθθαιννεν το ;
+1	Θθυμάσαι	θθυμούμαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Αντώνη	Αντώνης	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
+3	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+4	όταν	όταν	SCONJ	_	_	7	mark	_	_
+5	ήσουν	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	5	5	NUM	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	_
+7	χρονών	χρόνος	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	advcl	_	_
+8	και	και	CCONJ	_	_	9	cc	_	_
+9	ελάλες	λαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	έναν	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	ψέμαν	ψέμαν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+12	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	μάμμας	μάμμα	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	iobj	_	_
+14	και	και	CCONJ	_	_	15	cc	_	_
+15	εμάθθαιννεν	μαθθαίννω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+16	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	;	;	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__95
+# text = Να μεν ξεχάσουμεν να μπούμεν τζ̆αι στο χρηματιστήριον της Νέας Υόρκης !
+1	Να	να	AUX	_	_	3	aux	_	_
+2	μεν	μεν	PART	_	Polarity=Neg	3	advmod	_	_
+3	ξεχάσουμεν	ξεχνώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+4	να	να	SCONJ	_	_	5	mark	_	_
+5	μπούμεν	μπαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
+6	τζ̆αι	τζ̆αι	CCONJ	_	_	9	cc	_	_
+7-8	στο	_	_	_	_	_	_	_	_
+7	σ	σε	ADP	_	_	9	case	_	_
+8	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	χρηματιστήριον	χρηματιστήριον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+10	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	Νέας	νέος	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
+12	Υόρκης	Υόρκη	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+13	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = C__96
+# text = Πριν οκτώ μήνες μόλις εξεκίνησεν η σχέση μου με την Σάβιαν , επήα τζ̆αι ήβρα τον , τζ̆αι είπα του ότι αγαπώ την κόρην σας .
+1	Πριν	πριν	ADV	_	_	13	advmod	_	_
+2	οκτώ	οκτώ	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	3	nummod	_	_
+3	μήνες	μήνας	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	_
+4	μόλις	μόλις	SCONJ	_	_	5	mark	_	_
+5	εξεκίνησεν	ξεκινώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	_
+6	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	σχέση	σχέση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+8	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	με	με	ADP	_	_	11	case	_	_
+10	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Σάβιαν	Σάβια	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	επήα	πηαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	τζ̆αι	τζ̆αι	CCONJ	_	_	15	cc	_	_
+15	ήβρα	βρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+16	τον	εγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	,	,	PUNCT	_	_	13	punct	_	_
+18	τζ̆αι	τζ̆αι	CCONJ	_	_	19	advmod	_	_
+19	είπα	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+20	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+21	ότι	ότι	SCONJ	_	_	22	mark	_	_
+22	αγαπώ	αγαπώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
+23	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	κόρην	κόρη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+25	σας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	nmod	_	_
+26	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = C__97
+# text = Που ’ννά πεθάνω εν’ οι γείτονες που ’ννά με ανακαλύψουν που την μυρωθκιάν , ύστερα που μιαν εφτομάδαν , επειδή εσύ εν θα πάρεις είδησην Χρυσόστομε !
+1	Που	που	SCONJ	_	_	3	mark	_	_
+2	’ννά	εννά	AUX	_	Tense=Fut	3	aux	_	_
+3	πεθάνω	πεθανίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	6	advcl	_	_
+4	εν’	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	_
+5	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	γείτονες	γείτονας	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+7	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
+8	’ννά	εννά	AUX	_	Tense=Fut	10	aux	_	_
+9	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+10	ανακαλύψουν	ανακαλύπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	που	που	ADP	_	_	13	case	_	_
+12	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	μυρωθκιάν	μυρωθκιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	ύστερα	ύστερα	ADV	_	_	10	advmod	_	_
+16	που	που	ADP	_	_	18	case	_	_
+17	μιαν	ένας	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	18	nummod	_	_
+18	εφτομάδαν	εφτομάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+19	,	,	PUNCT	_	_	24	punct	_	_
+20	επειδή	επειδή	SCONJ	_	_	24	mark	_	_
+21	εσύ	εγώ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	_
+22	εν	εν	PART	_	Polarity=Neg	24	advmod	_	_
+23	θα	θα	AUX	_	Tense=Fut	24	aux	_	_
+24	πάρεις	παίρνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	advcl	_	_
+25	είδησην	είδηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	_
+26	Χρυσόστομε	Χρύσοσταμε	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	24	vocative	_	_
+27	!	!	PUNCT	_	_	24	punct	_	_
+
+# sent_id = C__98
+# text = Εννά τραβήσουμεν μακρύν - κοντόν για να δούμεν ποια που τες θκυο μας θα πάει εκδρομήν με την γεναίκαν σου .
+1	Εννά	εννά	AUX	_	Tense=Fut	2	aux	_	_
+2	τραβήσουμεν	τραβώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+3	μακρύν	μακρύν	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
+5	κοντόν	κοντόν	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	compound	_	_
+6	για	για	ADP	_	ExtPos=SCONJ	8	mark	_	_
+7	να	να	SCONJ	_	_	6	fixed	_	_
+8	δούμεν	βλέπω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	advcl	_	_
+9	ποια	ποιος	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	15	nsubj	_	_
+10	που	που	SCONJ	_	_	12	case	_	_
+11	τες	ο	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	θκυο	θκυο	NUM	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	9	nmod	_	_
+13	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	_
+14	θα	θα	AUX	_	Tense=Fut	15	aux	_	_
+15	πάει	πηαίννω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+16	εκδρομήν	εκδρομή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+17	με	με	ADP	_	_	19	case	_	_
+18	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	γεναίκαν	γεναίκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+20	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	19	nmod	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = C__99
+# text = Εκάθετουν τζ̆ειαμαί μόνος του τζ̆αι είπα να του κάμω λλίην παρέαν .
+1	Εκάθετουν	καθίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τζ̆ειαμαί	τζ̆ειαμαί	ADV	_	PronType=Dem	1	advmod	_	_
+3	μόνος	μόνος	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	1	advcl	_	_
+4	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	τζ̆αι	τζ̆αι	CCONJ	_	_	6	cc	_	_
+6	είπα	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	να	να	SCONJ	_	_	9	mark	_	_
+8	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	κάμω	κάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	λλίην	λλίος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	παρέαν	παρέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = C__100
+# text = Είπεν μου ότι μπορεί να με κάμει πρωταγωνίστριαν σε ταινίες τζ̆αι να μου διούν 10.000 ευρώ για κάθε ταινίαν που θα γυρίζω .
+1	Είπεν	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	ότι	ότι	SCONJ	_	_	4	mark	_	_
+4	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	να	να	SCONJ	_	_	7	mark	_	_
+6	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	κάμει	κάμνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	_	_
+8	πρωταγωνίστριαν	πρωταγωνίστρια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	xcomp	_	_
+9	σε	σε	ADP	_	_	10	case	_	_
+10	ταινίες	ταινία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	nmod	_	_
+11	τζ̆αι	τζ̆αι	CCONJ	_	_	14	cc	_	_
+12	να	να	SCONJ	_	_	14	mark	_	_
+13	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	διούν	δίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	10.000	10.000	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	16	nummod	_	_
+16	ευρώ	ευρώ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	_
+17	για	για	ADP	_	_	19	case	_	_
+18	κάθε	κάθε	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
+19	ταινίαν	ταινία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+20	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	22	obj	_	_
+21	θα	θα	AUX	_	Tense=Fut	22	aux	_	_
+22	γυρίζω	γυρίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
