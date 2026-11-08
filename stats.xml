@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>100</sentences><tokens>2002</tokens><words>2042</words><fused>40</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>100</sentences><tokens>2002</tokens><words>2042</words><fused>40</fused></test>
+  </size>
+  <lemmas unique="611" /><!-- ο, εγώ, ,, ., τζ̆αι, που, να, είμαι, σε, εν, έχω, ένας, εννά, για, ότι -->
+  <forms unique="826" /><!-- ,, ., που, τζ̆αι, να, το, την, εν, μου, σ, τα, εν’, για, εννά, η -->
+  <fusions unique="10" /><!-- στην, στο, έννεν’, στα, στες, τούντο, εννάν’, πόν, πόννά, τούντην -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">79</tag><!-- κυπριακός, μιτσής, παιδικός, διάφορος, καλός, κύριος, νέος, τεχνητός, τζ̆αινούρκος, Άγγλος -->
+    <tag name="ADP">108</tag><!-- σε, που, για, με, αντί, από, ε, εις, εμ, εχτός -->
+    <tag name="ADV">132</tag><!-- πολλά, πάνω, πιο, πάρα, έτσι, σαν, τωρά, όπως, μετά, παραπάνω -->
+    <tag name="AUX">79</tag><!-- είμαι, εννά, θα, έχω, να, ας -->
+    <tag name="CCONJ">111</tag><!-- τζ̆αι, αλλά, ούτε, ή, και, τζαι, δηλαδή, ε -->
+    <tag name="DET">303</tag><!-- ο, ένας, κάποιος, άλλος, τούτος, κάτι, ούλλος, κανένας, λλίος, κάθε -->
+    <tag name="INTJ">11</tag><!-- ε, εε, νναι, ρε -->
+    <tag name="NOUN">313</tag><!-- μέρα, μουσική, σπίτιν, γονιός, είδος, παρέα, πράμαν, ταινία, άνθρωπος, δουλειά -->
+    <tag name="NUM">19</tag><!-- ένας, θκυο, 1, 10.000, 3, 5, δυόμισι, δύο, οκτώ, πενηνταεννιά -->
+    <tag name="PART">46</tag><!-- εν, μεν, δεν, έντζ̆ε, τζ̆αι, όι -->
+    <tag name="PRON">150</tag><!-- εγώ, που, οποίος, ίνταμπου -->
+    <tag name="PROPN">29</tag><!-- Κύπρος, Παλώθκια, Άντρος, Αλίκη, Ανατολή, Ανεμούριο, Ανεξαρτησία, Αντρέας, Αντώνης, Ευαγόρου -->
+    <tag name="PUNCT">218</tag><!-- ,, ., «, », …, ;, !, - -->
+    <tag name="SCONJ">116</tag><!-- να, ότι, που, επειδή, αν, γιατί, οπότε, διότι, πως, ενώ -->
+    <tag name="VERB">322</tag><!-- έχω, κάμνω, πηαίννω, αρέσκω, θέλω, μπορώ, λαλώ, μαθθαίννω, πιστεύκω, βρίσκω -->
+    <tag name="X">6</tag><!-- Mario, Pokemon, Super, θριφτ, στορ, στρέφω -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="48">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">186</feat><!-- πιστεύκω, θθυμούμαι, μπορεί, αρέσκει, ξέρω, ’θελα, έχουμεν, ακούω, διούν, εθώρουν -->
+    <feat name="Aspect" value="Perf" upos="VERB">100</feat><!-- κάμει, κάμω, έμαθα, ήβρα, είπα, εξεκίνησεν, μάθω, ξιάσω, πάω, Άκουσα -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">510</feat><!-- την, το, που, τον, τα, έναν, τους, τες, μιαν, κάποιον -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">144</feat><!-- μου, του, της, σου, τους, μας, των, Παλώθκιας, 5, Ανατολής -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">240</feat><!-- η, που, το, οι, ο, τα, ένας, Έναν, εγώ, ούλλες -->
+    <feat name="Case" value="Voc" upos="NOUN,PROPN">4</feat><!-- Αντρο, Αντώνη, Χρυσόστομε, ππουσ̆τόγερε -->
+    <feat name="Definite" value="Def" upos="DET">195</feat><!-- την, το, τα, η, οι, ο, του, της, τον, τες -->
+    <feat name="Definite" value="Ind" upos="DET">30</feat><!-- έναν, μιαν, μια, ένας, κανέναν, αρκετήν, κάποιαν, καμπόσην -->
+    <feat name="Degree" value="Cmp" upos="ADV,DET">9</feat><!-- πιο, καλλύττερα, λλιόττερην, παλιόττερα -->
+    <feat name="Degree" value="Dim" upos="NOUN">4</feat><!-- καθρεφτούιν, κοπελλούιν, τερατούθκια -->
+    <feat name="Degree" value="Pos" upos="ADJ">1</feat><!-- σημαντικά -->
+    <feat name="ExtPos" value="ADP" upos="ADV">1</feat><!-- Εδώ -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV">4</feat><!-- Τωρά, εχτός, κατά, πέραν -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,VERB">10</feat><!-- για, νοουμένου, που -->
+    <feat name="Foreign" value="Yes" upos="X">3</feat><!-- Mario, Pokemon, Super -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">328</feat><!-- την, η, που, της, τες, μιαν, κάποιαν, παρέαν, ηλικίαν, μέρες -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">197</feat><!-- τον, τους, ο, του, οι, που, ένας, έναν, γονείς, θκυο -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">308</feat><!-- το, τα, που, έναν, του, κάτι, σπίτιν, κάποιον, πράμαν, τούτον -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">356</feat><!-- εν’, ήταν, έσ̆ει, πιστεύκω, έχω, έχουμεν, θθυμούμαι, μπορεί, πάω, αρέσκει -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">365</feat><!-- τα, τους, εν’, οι, που, τες, μας, ήταν, θκυο, έχουμεν -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">890</feat><!-- το, την, μου, που, η, τον, του, έναν, ο, της -->
+    <feat name="NumType" value="Card" upos="NUM">18</feat><!-- θκυο, ένας, μιαν, 1, 10.000, 3, 5, έναν, δυο, οκτώ -->
+    <feat name="NumType" value="Frac" upos="NUM">1</feat><!-- δυόμισι -->
+    <feat name="NumType" value="Ord" upos="ADV">1</feat><!-- τέταρτον -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">222</feat><!-- μου, πιστεύκω, έχω, έχουμεν, θθυμούμαι, μας, με, πάω, είχα, ξέρω -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">34</feat><!-- σου, εκφράζεις, Θθυμάσαι, Πιάννεις, έβαλες, έκαμες, ήσουν, γοράσεις, είσ̆ες, είσαι -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">210</feat><!-- εν’, τους, ήταν, έσ̆ει, τον, του, το, μπορεί, αρέσκει, τα -->
+    <feat name="Polarity" value="Neg" upos="CCONJ,PART">47</feat><!-- εν, τζ̆αι, μεν, δεν, Έντζ̆ε -->
+    <feat name="Polarity" value="Pos" upos="INTJ">1</feat><!-- Νναι -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">43</feat><!-- μου, τους, σου, μας, του, της, δικούς, σας -->
+    <feat name="PronType" value="Art" upos="DET,PRON">229</feat><!-- την, το, τα, η, έναν, οι, ο, του, της, τον -->
+    <feat name="PronType" value="Dem" upos="ADV,DET">20</feat><!-- τζ̆ειαμαί, τούτον, τζ̆είνα, τούτα, τότε, Εδώ, τζ̆είνην, τζ̆είνοι, τούτην, τούτος -->
+    <feat name="PronType" value="Ind" upos="ADV,DET">55</feat><!-- πολλά, κάτι, κάποιον, άλλον, κάποιαν, πολλές, άλλες, άλλη, άλλοι, άλλος -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">9</feat><!-- πώς, τι, Γιατί, ίνταμπου, ποια -->
+    <feat name="PronType" value="Neg" upos="ADV,DET">5</feat><!-- ποττέ, καμιάν, κανέναν, τίποτε -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">107</feat><!-- μου, τους, σου, τον, του, μας, με, τα, εγώ, της -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">50</feat><!-- που, όπως, οποίον, ό,τι, οποία, οποίοι, οποίος, όσα, όσον -->
+    <feat name="PronType" value="Tot" upos="ADV,DET">11</feat><!-- κάθε, ούλλες, ούλλα, πάντα, παντού -->
+    <feat name="Tense" value="Fut" upos="AUX">28</feat><!-- εννά, θα, ’ννά, Ν’ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">120</feat><!-- ήταν, είχα, ’θελα, ήμουν, ήρτεν, είσ̆εν, εθώρουν, άρεσκεν, έμαθα, ήβρα -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">173</feat><!-- εν’, πιστεύκω, έσ̆ει, έχουμεν, έχω, θθυμούμαι, μπορεί, αρέσκει, ξέρω, έχουν -->
+    <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- παίζοντας -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">355</feat><!-- εν’, ήταν, έσ̆ει, πιστεύκω, έχω, έχουμεν, θθυμούμαι, μπορεί, πάω, αρέσκει -->
+    <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- κάμει, σκοτώσει -->
+    <feat name="VerbForm" value="Part" upos="VERB">11</feat><!-- αγαπημένα, αγαπημένη, αγαπημένην, ανακατωμένος, βρεμένος, ευχαριστημένοι, κρυμμένα, λεγόμενα, μεταχειρισμένες, νοουμένου -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">283</feat><!-- έσ̆ει, πιστεύκω, έχω, έχουμεν, μπορεί, πάω, αρέσκει, είχα, ξέρω, ’θελα -->
+    <feat name="Voice" value="Mid" upos="VERB">2</feat><!-- Εξιπλύθθηκεν, εντύθηκεν -->
+    <feat name="Voice" value="Pass" upos="AUX,VERB">44</feat><!-- θθυμούμαι, χρειάζεται, Εδυσκολεύκουμουν, Χρειάζουνται, έρκουνται, αγαπημένα, αγαπημένη, αγαπημένην, αθθυμούμαι, ακούεται -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="36">
+    <dep name="acl">5</dep>
+    <dep name="acl:relcl">44</dep>
+    <dep name="advcl">56</dep>
+    <dep name="advmod">159</dep>
+    <dep name="amod">54</dep>
+    <dep name="appos">5</dep>
+    <dep name="aux">32</dep>
+    <dep name="case">100</dep>
+    <dep name="cc">109</dep>
+    <dep name="ccomp">40</dep>
+    <dep name="compound">2</dep>
+    <dep name="conj">113</dep>
+    <dep name="cop">47</dep>
+    <dep name="csubj">8</dep>
+    <dep name="det">268</dep>
+    <dep name="discourse">14</dep>
+    <dep name="dislocated">7</dep>
+    <dep name="expl">8</dep>
+    <dep name="fixed">17</dep>
+    <dep name="flat">3</dep>
+    <dep name="iobj">17</dep>
+    <dep name="mark">118</dep>
+    <dep name="nmod">91</dep>
+    <dep name="nsubj">75</dep>
+    <dep name="nsubj:outer">4</dep>
+    <dep name="nsubj:pass">2</dep>
+    <dep name="nummod">11</dep>
+    <dep name="obj">150</dep>
+    <dep name="obl">119</dep>
+    <dep name="orphan">1</dep>
+    <dep name="parataxis">14</dep>
+    <dep name="punct">218</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">100</dep>
+    <dep name="vocative">3</dep>
+    <dep name="xcomp">27</dep>
+  </deps>
+</treebank>
